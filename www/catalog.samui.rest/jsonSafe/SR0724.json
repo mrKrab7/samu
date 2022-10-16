@@ -1,0 +1,238 @@
+{
+	"_id" : "SR0724",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_8.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Двуспальный дом  с общим бассейном в 400 метрах от пляжа Чонг Мон.",
+        "EN" : "Two bedroom house with a shared pool at 400 m to Chong Mon beach"
+    },
+    "description" : {
+        "RU" : "Стоимость: 35000 бат/месяц - высокий сезон, 30000 бат/месяц - низкий сезон. <br>Интернет, уборка каждые 3 дня, вода включены в стоимость. <br>Дополнительно оплачивается: электричество 7 бат/кВт.",
+        "EN" : "Price: 35000 baht/month - high season, 30000 baht/month - low season. <br>Internet, cleaning every 3 days, water are included. <br>Additional charge: electricity 7 baht/kW."
+    },
+    "monthPrice" : NumberInt(30000),
+    "sleepingRoomCount" : 2,
+    "washRoomCount" : 1,
+    "distanceToSea" : NumberInt(400),
+    "type" : "house",
+    "beach" : "choengMon",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "https://youtu.be/bcRz0VBgGCw",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

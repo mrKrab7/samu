@@ -1,0 +1,238 @@
+{
+	"_id" : "SR1027",
+    "special" : true,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Дополнительно:",
+                "EN" : "Additional:"
+            },
+            "filename" : "add_1.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Уникальные произведения искусства и эко-дизайн дома для отпуска со всем современным техническим оборудованием.",
+        "EN" : "Unique artwork and eco-design of the holiday home with all modern technical equipment."
+    },
+    "description" : {
+        "RU" : "Главные особенности этой эксклюзивной и уникальной виллы: 2 больших пейзажных бассейна, один с баром у кромки бассейна и зоной для барбекю; непревзойденная просторная гостиная, большой тренажерный зал с зоной отдыха; Wi-Fi на всей территории, сейфы, 2 общих лаунджа/ТВ-зоны, обеденная зона на свежем воздухе, кладовая, прачечная, круглосуточная охрана. <br>Гости могут выбрать один из 4 просторных номеров с видом на море, каждый из которых излучает атмосферу полного покоя и гармонии. Естественно, его внутренние и внешние помещения предлагают вам идеальное место для любых собраний, торжеств, свадеб, деловых встреч или просто для того, чтобы провести роскошный отпуск с семьей и друзьями. Все спальни с двуспальными кроватями предлагают уникальную просторную гостиную вместе с просторными ванными комнатами, гардеробы, в главной спальне есть отдельная гардеробная. Все спальни гарантируют вам максимальную конфиденциальность со скрытыми видами, но в то же время связаны с бассейнами, солнечной террасой и красивым садом, чтобы вместе наслаждаться прекрасным видом. <br>Вилла расположена рядом с Чавенгом и Ламаем, 3 минуты от гольф-клуба Royal Samui, прямой выход на пляж в 5 минутах езды. Удобно расположенный ресторан с видом на море и круглосуточный магазин всего в 5 минутах ходьбы. <hr>Стоимость: <br>Высокий сезон (декабрь-март, июль, август): <br>Стоимость в сутки: от 74500 бат. <br>Низкий сезон (апрель-июнь, сентябрь-ноябрь): <br>Стоимость в сутки: от 59600 бат. <br>Минимальное количество ночей для бронирования: 2 <br>Дополнительно оплачиваются: Электричество, вода. <br>Включены в стоимость: WiFi, трансфер с пирса/аэропорта, обслуживание бассейна, уборка со сменой белья и полотенец. <br>Депозит для бронирования/сохранный депозит - 30000 бат или 1000$.",
+        "EN" : "The main features of this exclusive and unique villa are: 2 large infinity pools, one with a swim-up bar and BBQ area; unrivaled spacious living room, large gym with relaxation area; Wi-Fi throughout, safes, 2 shared lounges / TV areas, outdoor dining area, pantry, laundry, 24 hour security. <br>Guests can choose from 4 spacious sea-view rooms, each of which exudes an atmosphere of total peace and harmony. Naturally, its indoor and outdoor spaces offer you the perfect setting for any kind of gathering, celebration, wedding, business meeting or just a luxury vacation with family and friends. 4 double bedrooms offer a unique spacious living area along with spacious bathrooms; wardrobes, the master bedroom has a separate dressing room. All bedrooms guarantee you the utmost privacy with hidden views, but at the same time are connected to the pools, sun terrace and beautiful garden to enjoy the wonderful views together. <br>The villa is located near Chaweng and Lamai, 3 minutes from the Royal Samui Golf Club, direct access to the beach in 5 minutes. Conveniently located sea view restaurant and convenience store just 5 minutes' walk away. <hr>Price: <br>High season (December-March, July, August): <br>Price per day: from 74,500 baht. <br>Low season (April-June, September-November): <br>Price per day: from 59,600 baht. <br>Minimum number of nights to book: 2 <br>Additionally paid: Electricity, water. <br>Included in the price: WiFi, transfer from the pier / airport, pool maintenance, cleaning with change of linen and towels. <br>Deposit for booking / safe deposit - 30,000 baht or 1000 $. "
+    },
+    "dayPrice" : 59600.0,
+    "sleepingRoomCount" : 4,
+    "washRoomCount" : 4,
+    "distanceToSea" : 500.0,
+    "type" : "villa",
+    "beach" : "chawengNoi",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : true,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

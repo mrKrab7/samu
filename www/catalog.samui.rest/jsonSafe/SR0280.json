@@ -1,0 +1,260 @@
+{
+	"_id" : "SR0280",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr9.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr9.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Описание:",
+        "RU" : "Описание:"
+    },
+    "briefly" : {
+        "EN" : "Односпальный дом в резорте с общим бассейном районе Мэнам.",
+        "RU" : "Односпальный дом в резорте с общим бассейном районе Мэнам."
+    },
+    "description" : {
+        "EN" : "<ul>Односпальный дом в резорте с общим бассейном районе Мэнам. До пляжа Мэнам - 550 м. На высокий сезон (декабрь-март) объект сдается только от 3 месяцев. Большая зеленая территория перед домом. На входе в дом большая терраса. В гостиной имеется телевизор, шкаф для одежды. В спальне двуспальная кровать, кондиционер, туалетный столик. На кухне имеется холодильник, газовая плита, термопот и базовый набор посуды. Санузел с раковиной и душем.<hr></p><ul><li>18000 бат/мес. WiFi включен в стоимость.</li><li>Дополнительно оплачиваются: вода - 300 бат/чел/мес., эелектричество - 4,5 бат/кВт.</li><li>Сохранный депозит - 6000 бат.</li></ul> ",
+        "RU" : "<ul>Односпальный дом в резорте с общим бассейном районе Мэнам. До пляжа Мэнам - 550 м. На высокий сезон (декабрь-март) объект сдается только от 3 месяцев. Большая зеленая территория перед домом. На входе в дом большая терраса. В гостиной имеется телевизор, шкаф для одежды. В спальне двуспальная кровать, кондиционер, туалетный столик. На кухне имеется холодильник, газовая плита, термопот и базовый набор посуды. Санузел с раковиной и душем.<hr></p><ul><li>18000 бат/мес. WiFi включен в стоимость.</li><li>Дополнительно оплачиваются: вода - 300 бат/чел/мес., электричество - 4,5 бат/кВт.</li><li>Сохранный депозит - 6000 бат.</li></ul> "
+    },
+    "type" : "house",
+    "beach" : "maenam",
+    "monthPrice" : 18000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : false,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 1,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 550.0,
+    "videoLink" : "https://youtu.be/Oq2X-a1bLP0",
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

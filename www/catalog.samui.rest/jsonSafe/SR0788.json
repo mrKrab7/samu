@@ -1,0 +1,210 @@
+{
+	"_id" : "SR0788",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Двуспальные апартаменты в районе Ламаи, 1,9 км от пляжа.",
+        "EN" : "2 br apartment at 1.9 km to Lamai beach"
+    },
+    "description" : {
+        "RU" : "Интернет, вода, уборка один раз в неделю включены в стоимость. Дополнительно оплачивается электричество 7 бат/кВт. <br>Стоимость: 30000 бат/месяц.",
+        "EN" : "Internet, water, cleaning once a week are included in the price. Additional charge for electricity 7 baht/kW. <br>Price: 30000 baht/month."
+    },
+    "monthPrice" : NumberInt(30000),
+    "sleepingRoomCount" : 2,
+    "washRoomCount" : 2,
+    "distanceToSea" : NumberInt(1900),
+    "type" : "apartments",
+    "beach" : "lamai",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "https://youtu.be/0IBtV-TTTc0",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

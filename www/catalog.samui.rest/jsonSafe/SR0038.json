@@ -1,0 +1,175 @@
+{
+	"_id" : "SR0038",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st9.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st10.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Бунгало Бопут",
+        "RU" : "Бунгало Бопут"
+    },
+    "briefly" : {
+        "EN" : "Бунгало в пешей доступности до Fisherman Village на пляже Бопут. Хороший туристический район где есть много развлекательных заведений на любой вкус и кошелек.",
+        "RU" : "Бунгало в пешей доступности до Fisherman Village на пляже Бопут. Хороший туристический район где есть много развлекательных заведений на любой вкус и кошелек."
+    },
+    "description" : {
+        "EN" : "Резорт новый, территория ухоженная и красивая. Сдают только по суточно. При бронировании необходимо учитывать, что пляж Бопут не лучшее место для купания на острове.",
+        "RU" : "Резорт новый, территория ухоженная и красивая. Сдают только по суточно. При бронировании необходимо учитывать, что пляж Бопут не лучшее место для купания на острове."
+    },
+    "type" : "bungalow",
+    "beach" : "bophut",
+    "dayPrice" : 1200.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : false,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : false,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : false,
+        "cleaning" : false,
+        "tableWare" : false,
+        "kitchen" : false,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 0,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 400.0,
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

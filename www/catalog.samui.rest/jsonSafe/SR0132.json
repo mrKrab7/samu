@@ -1,0 +1,197 @@
+{
+	"_id" : "SR0132",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Холл",
+                "EN" : "Hall:"
+            },
+            "filename" : "hll_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Новый таунхаус с 2 спальнями в лофт-стиле с общим бассейном в районе Мэнам",
+        "EN" : "Краткое описание объекта тут должно быть."
+    },
+    "description" : {
+        "RU" : "Объект в управлении нашей компании! <br><br>Таунхаус со стильным и современным дизайном. Обе спальни расположены на 2 этаже. Основная спальня с кроватью king-size, Smart-TV и имеет свой санузел с душем. Также в спальне раскладывается рабочий стол, что позволяет комфортно поработать за ноутбуком. Вторая спальня отлично подойдет для детской, т.к. в  ней расположено 2 односпальных кровати. На первом этаже находятся просторная гостиная открытой планировки, обеденная зона, кухня и второй санузел с душем. Диван в гостиной можно использовать, как дополнительную кровать. Таким образом, можно комфортно разместить от 1 до 6 гостей. В доме есть все для комфортного проживания даже для долгосрочной аренды: полностью оборудованная кухня, стиральная машина, постельное белье, полотенца, гриль, полотенца для бассейна/пляжа.  Кондиционер установлен в каждой комнате. На окнах установлены противомоскитные сетки. Бассейн и прилегающая к нему территория доступны только нашим двум соседним таунхаусам. <br>До пляжа Мэнам (подходит для купания круглый год) - 1.9 км.<br><br>Стоимость: <br>Высокий сезон (декабрь-март, июль, август): <br>Стоимость в сутки: 2500 бат. <br>Стоимость в месяц: 45000 бат. <br><br>Низкий сезон (апрель-июнь, сентябрь-ноябрь): <br>Стоимость в сутки: 1700 бат. <br>Стоимость в месяц: 30000 бат.  <br>Дополнительно оплачивается электричество - 5 бат/кВт. <br>Включены в стоимость: WiFi, вода, трансфер с пирса/аэропорта, обслуживание бассейна, уборка 1 раз в неделю со сменой белья и полотенец (при проживании менее 7 дней уборка не предусмотрена, но может быть проведена за дополнительную оплату). <br>Депозит для бронирования - 10000 бат. <br>Сохранный депозит - 5000 бат или 200$.",
+        "EN" : "У этого объекта пока нет описания, но скоро мы его добавим. Если у вас нет времени ждать, просто свяжитесь с нами любым удобным способом и мы подробно расскажем вам об этом жилье."
+    },
+    "dayPrice" : NumberInt(1700),
+    "monthPrice" : NumberInt(30000),
+    "sleepingRoomCount" : 2,
+    "washRoomCount" : 2,
+    "distanceToSea" : 1900.0,
+    "type" : "townhouse",
+    "beach" : "maenam",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : true,
+        "dishWasher" : false,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : true,
+        "grill" : true,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : false,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

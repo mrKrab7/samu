@@ -1,0 +1,134 @@
+{
+	"_id" : "SR0099",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Ламай - студия",
+        "RU" : "Ламай - студия"
+    },
+    "briefly" : {
+        "EN" : "Студия вблизи обзорной площадки Ламай.",
+        "RU" : "Студия вблизи обзорной площадки Ламай."
+    },
+    "description" : {
+        "EN" : "Большая двуспальная кровать, ТВ,  кондиционер, санузел с душем. Кухни нет.  Стоимость: низкий сезон - 15 000 бат/мес., высокий - 17 000 бат/мес. Посуточно: 900 и 1200 бат/ночь. В стоимость включены: WiFi, вода, электричество, уборка раз в неделю. ",
+        "RU" : "Большая двуспальная кровать, ТВ,  кондиционер, санузел с душем. Кухни нет.  Стоимость: низкий сезон - 15 000 бат/мес., высокий - 17 000 бат/мес. Посуточно: 900 и 1200 бат/ночь. В стоимость включены: WiFi, вода, электричество, уборка раз в неделю. "
+    },
+    "type" : "studio",
+    "beach" : "lamai",
+    "dayPrice" : 900.0,
+    "monthPrice" : 15000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : false,
+        "teaPot" : false,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : false,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : false,
+        "refrigerator" : true,
+        "kitchenWare" : false,
+        "cleaning" : true,
+        "tableWare" : false,
+        "kitchen" : false,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 0,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 550.0,
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

@@ -1,0 +1,259 @@
+{
+	"_id" : "SR1017",
+    "special" : true,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Пятая спальня:",
+                "EN" : "Fifth bedroom:"
+            },
+            "filename" : "br5_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_8.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_9.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Самобытная вилла с пятью спальнями на склоне холма с захватывающим видом на океан в районе пляжа Бан Тай.",
+        "EN" : "A distinctive five bedroom hillside villa with breathtaking ocean views at Ban Tai Beach."
+    },
+    "description" : {
+        "RU" : "Простор и новаторская планировка виллы делают ее идеальным тропическим убежищем для больших семей или компаний друзей. Очаровательное расположение этой впечатляющей виллы на склоне лесистого холма обеспечивает уединение и приватность. Что делает эту виллу площадью 650 кв.м уникальной, так это потрясающий дизайн интерьера, созданный с использованием природных текстур и тонов, ее беспрецедентное расположение, потрясающие виды и пять просторных и комфортабельных спален с собственными ванными комнатами, четыре из которых имеют потрясающий вид на тропики. тропический лес, океан и остров за его пределами. <br>Удобный большой крытый навес для автомобилей стоит на уровне входа в виллу, за которым вы найдете очаровательные пышные тропические сады и очаровательный декоративный пруд с рыбками. <br>А войдя внутрь вы найдете удобную и гостеприимную полностью функциональную кухню открытой планировки в западном стиле, просторную гостиную, обеденную зону с возможностью насладиться невероятным видом во время обеда. За обеденной зоной находится гостиная с удобными креслами, современной развлекательной системой и панорамным видом на океан. <br>С уровня входа красивая лестница ведет на второй уровень, на котором расположены три спальни с ванными комнатами. Главный люкс со вкусом обставлен и имеет очень удобную двуспальную кровать, просторную гардеробную и выход на террасу у бассейна. В ванной комнате есть две раковины, освежающий тропический душ и ванна. Во второй спальне есть большая удобная кровать, ванная комната с тропическим душем и терраса у бассейна. Третья спальня включает в себя большую гардеробную, кровать размера «king-size» и ванную комнату с двумя раковинами, тропическим душем и ванной. <br>На нижнем третьем уровне виллы находятся еще две спальни с ванными комнатами. В обоих есть очень большие гардеробные, одна с кроватью размера «queen-size», а другая - с двумя односпальными кроватями, и большая уютная частная терраса для загара, соединенная ступеньками вокруг сказочного каскадного водоема, питаемого из невероятного пейзажного бассейна площадью 32 кв. выше. <br>Вилла расположена всего в 5 минутах езды от пляжей Бан Тай или Банг По, а также в 7-10 минутах езды от магазинов и ресторанов пляжа Мэнам. <hr>Стоимость: <br>Высокий сезон (декабрь-март, июль, август): <br>Стоимость в сутки: от 22400 бат. <br>Низкий сезон (апрель-июнь, сентябрь-ноябрь): <br>Стоимость в сутки: от 11200 бат. <br>Включены в стоимость: WiFi, вода, электричество, трансфер с пирса/аэропорта, обслуживание бассейна, уборка со сменой белья и полотенец. <br>Депозит для бронирования/сохранный депозит - 15000 бат или 500$.",
+        "EN" : "The spaciousness and innovative layout of the villa make it the ideal tropical getaway for large families or groups of friends. The enchanting location of this impressive villa on a wooded hillside provides privacy and privacy. What makes this 650sqm villa unique is its stunning interior design inspired by natural textures and tones, its unparalleled location, stunning views and five spacious and comfortable en suite bedrooms, four of which have stunning tropical views, tropical forest, ocean and the island beyond.<br>A comfortable large covered carport is located at the entrance level of the villa, behind which you will find charming lush tropical gardens and a charming decorative fish pond. <br>Once inside, you will find a comfortable and welcoming fully functional open-plan western style kitchen, spacious living room, dining area with incredible views while dining. Behind the dining area is the living room with comfortable seating, modern entertainment system and panoramic ocean views. <br>From the entrance level, a beautiful staircase leads to the second level, where there are three bedrooms with bathrooms. The master suite is tastefully furnished and has a very comfortable double bed, ample dressing room and access to the pool terrace. The bathroom has two sinks, a refreshing rain shower and a bathtub. The second bedroom has a large comfortable bed, a bathroom with a rain shower and a poolside terrace. The third bedroom includes a large walk-in closet, a king-size bed and a bathroom with two sinks, a rain shower and a bathtub. <br>On the lower third level of the villa, there are two more bedrooms with en suite bathrooms. Both have very large walk-in closets, one with a queen bed and the other with two single beds, and a large intimate private sun deck connected by steps around a fabulous cascading pool fed from an incredible 32 sq. m. Infinity pool. above. <br>The villa is located just a 5-minute drive from Ban Tai or Bang Po beaches, and a 7-10 minute drive from the shops and restaurants of Maenam Beach. <hr>Price: <br>High season (December-March, July, August): <br>Price per day: from 22,400 baht. <br>Low season (April-June, September-November): <br>Price per day: from 11,200 baht. <br>Included in the price: WiFi, water, electricity, transfer from the pier / airport, pool maintenance, cleaning with a change of linen and towels.  <br>Deposit for booking / safe deposit - 15,000 baht or 500 $."
+    },
+    "dayPrice" : 11200.0,
+    "sleepingRoomCount" : 5,
+    "washRoomCount" : 5,
+    "distanceToSea" : 1000.0,
+    "type" : "villa",
+    "beach" : "banTai",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : true,
+        "dishWasher" : true,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : true,
+        "grill" : true,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : true,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : true,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

@@ -1,0 +1,190 @@
+{
+	"_id" : "SR0570",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Односпальный дом с общим бассейном в 350 метрах от пляжа Бопут",
+        "EN" : "1BR house only at 350 m to Bophut Beach."
+    },
+    "description" : {
+        "RU" : "Односпальный дом в 350 метрах от пляжа Бопут (в видеообзоре ошибка с названием района). На территрии имеется общий бассейн. На входе в дом имеется просторная терраса с местом для отдыха. Кухонная зона объединена с гостиной. В зоне гостиной расположены диван и телевизор. На кухне есть все необходимое: керамическая плита, чайник, тостер, микроволновая печь, посуда и приборы. В спальне  двуспальная кровать, туалетный столик, шкаф для одежды. Постельное белье и полотенца предоставляются. Москитных сеток на окнах нет. Санузел с душем и горячей водой. <br><br><br>Стомость: 750 бат/сутки, 22500 бат/месяц. <br>Интеренет с высокой скоростью, вода включены в стоимость. <br>Дополнительно оплачиваются: электричество 7 бат/кВт, уборка (по желанию) 400 бат. <br>Сохранный депозит - 5000 бат. <br>Депозит бронирования - 5000 бат.",
+        "EN" : "1BR house only at 350 m to Bophut Beach. There is a shared swimming pool in the area. Fully equipped kitchen in the house. Bedroom with king-size bed and aircon. Bathroom with a shower with hot water. Rates: 750 THB/night, 22500 THB/month. WiFi, water are included. Extra payment is electricity - 7 THB/unit. Damage deposit - 5000 THB. Booking deposit - 5000 THB."
+    },
+    "dayPrice" : NumberInt(750),
+    "monthPrice" : NumberInt(22500),
+    "sleepingRoomCount" : 1,
+    "washRoomCount" : 1,
+    "distanceToSea" : NumberInt(500),
+    "type" : "house",
+    "beach" : "bophut",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "https://youtu.be/U5UeRkVfgdQ",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

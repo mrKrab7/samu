@@ -1,0 +1,221 @@
+{
+	"_id" : "SR0209",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr5.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Описание:",
+        "RU" : "Описание:"
+    },
+    "briefly" : {
+        "EN" : "Двуспальный дом в резорте в районе Ламай.",
+        "RU" : "Двуспальный дом в резорте в районе Ламай."
+    },
+    "description" : {
+        "EN" : "Гостиная, спальни и кухня разделены. В зоне гостиной диван и большой телевизор. ,<br>На кухне есть все необходимое: холодильник, печь, термопот, посуда. <br>В каждой спальне большая двуспальная кровать, шкаф, туалетный столик и кондиционер. На окнах - москитные сетки. <br>Санузел с душем. <br>Постельное белье предоставляется, полотенец нет. <br>Есть большая терраса со столом и стульями. <hr>Стоимость: 20000 бат/мес. <br>Wi-Fi включен в стоимость. <br>Дополнительно оплачиваются: вода - 200 бат/мес/чел, электричество - 5 бат/кВт.",
+        "RU" : "Гостиная, спальни и кухня разделены. В зоне гостиной диван и большой телевизор. ,<br>На кухне есть все необходимое: холодильник, печь, термопот, посуда. <br>В каждой спальне большая двуспальная кровать, шкаф, туалетный столик и кондиционер. На окнах - москитные сетки. <br>Санузел с душем. <br>Постельное белье предоставляется, полотенец нет. <br>Есть большая терраса со столом и стульями. <hr>Стоимость: 20000 бат/мес. <br>Wi-Fi включен в стоимость. <br>Дополнительно оплачиваются: вода - 200 бат/мес/чел, электричество - 5 бат/кВт."
+    },
+    "type" : "house",
+    "beach" : "lamai",
+    "monthPrice" : 20000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : false,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : false,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 2,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 2100.0,
+    "videoLink" : "https://youtu.be/6b97MEJRpQw",
+    "archived" : false,
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

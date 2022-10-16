@@ -1,0 +1,218 @@
+{
+	"_id" : "SR1011",
+    "special" : true,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостевой санузел:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Дополнительно:",
+                "EN" : "Additional:"
+            },
+            "filename" : "add.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Великолепно спроектированная со вкусом и с прекрасным оборудованием, вилла исполнит все ваши желания для спокойного отдыха.",
+        "EN" : "Superbly designed with taste and excellent equipment, the villa will fulfill all your wishes for a relaxing holiday."
+    },
+    "description" : {
+        "RU" : "Вилла предлагает три спальни с отдельными ванными комнатами и гардеробными. Очень большая кухня, полностью оборудованная стиральной и посудомоечной машинами, гостиная со смарт-телевизором, большая и уютная открытая терраса с достаточной тенью. Вилла предлагает очень красивый вид на горы вместе с частным садом и бассейном с водопадом с молниями. <br>Вы будете всего в 15 минутах ходьбы или 1 минуте езды от центра Ламай, супермаркетов, торговых центров, ресторанов и пляжа Ламай. <hr>Стоимость: <br>Высокий сезон (декабрь-март, июль, август): <br>Стоимость в сутки: 5500 бат. <br>Стоимость в месяц: 130000 бат. <br>Низкий сезон (апрель-июнь, сентябрь-ноябрь): <br>Стоимость в сутки: 3500 бат. <br>Стоимость в месяц: 85000 бат. <br>Дополнительно оплачиваются: <br>Электричество - 7 бат/кВт. <br>Вода - 40 бат/м3. <br>Включены в стоимость: WiFi, трансфер с пирса/аэропорта, обслуживание бассейна, уборка 1 раз в неделю со сменой белья и полотенец. <br>Депозит для бронирования/сохранный депозит - 15000 бат или 500$.",
+        "EN" : "The villa offers three bedrooms with private bathrooms and walk-in closets. Very large kitchen, fully equipped with washing machine and dishwasher, living room with smart TV, large and cozy outdoor terrace with ample shade. The villa offers very beautiful mountain views along with a private garden and pool with a waterfall with lightning. <br>You will be just 15 minutes walk or 1 minute drive from Lamai Center, supermarkets, shopping malls, restaurants and Lamai Beach. <hr>Price: <br>High season (December-March, July, August): <br>Price per day: 5500 baht. <br>Cost per month: 130,000 baht. <br>Low season (April-June, September-November): <br>Price per day: 3500 baht. <br>Cost per month: 85,000 baht. <br>Additionally paid: <br>Electricity - 6 baht / unit. <br>Water - 40 baht / unit <br>Included in the price: WiFi, transfer from the pier / airport, pool service, cleaning once a week with a change of linen and towels. <br>Deposit for booking / safe deposit - 15,000 baht or 500 $. "
+    },
+    "dayPrice" : 3500.0,
+    "monthPrice" : 85000.0,
+    "sleepingRoomCount" : 3,
+    "washRoomCount" : 3,
+    "distanceToSea" : 1400.0,
+    "type" : "villa",
+    "beach" : "lamai",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : true,
+        "dishWasher" : true,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

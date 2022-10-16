@@ -1,0 +1,176 @@
+{
+	"_id" : "SR0461",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br_1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br_2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br_3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br_4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br_5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br_6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br_7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br_8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br_9.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br_10.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br_11.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br_12.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc_1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc_2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc_3.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Описание:",
+        "RU" : "Описание:"
+    },
+    "briefly" : {
+        "EN" : "A hotel right on the shores of Maenam Beach for those who like to have everything in one place!",
+        "RU" : "Отель прямо на берегу пляжа Мэнам для тех, кто любит, чтобы все было в одном месте!"
+    },
+    "description" : {
+        "EN" : "The pleasant and stylish interior of the room and the convenient location of the hotel will not leave anyone indifferent! In addition to the close proximity to the sea, there are cafes, restaurants nearby (there is a restaurant at the hotel), massage parlors, a Chinese Buddhist temple and the famous Walking Street fairs are held on the same street on Wednesdays. <br> Rooms have 2 modifications, differ in different types of beds: either 1 king-size bed, or 2 single beds. <hr> Cost: <br> Rooms on the 1st floor: <br> Cost per day: 2200 baht. <br> Rooms on the 2nd floor: <br> Price per day: 2500 baht. <br> And this is taking into account breakfasts and all utility bills!",
+        "RU" : "Приятный и стильный интерьер номера и удобное расположение отеля не оставит равнодушным никого! Помимо непосредственной близости к морю, рядом находятся кафе, рестораны (ресторан есть и при отеле), массажные салоны, китайский буддийский храм и знаменитые ярмарки Walking Street проводятся на этой же улочке по средам. <br>Номера имеют 2 модификации, различаются различными видами кроватей: либо 1 кровать king-size, либо 2 односпальных кровати. <hr>Стоимость: <br>Номера 1-го этажа: <br>Стоимость в сутки: 2200 бат. <br>Номера 2-го этажа: <br>Стоимость в сутки: 2500 бат. <br>И это с учетом завтраков и всех коммунальных платежей!"
+    },
+    "type" : "apartments",
+    "beach" : "maenam",
+    "dayPrice" : 2200.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : true,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : false,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : false,
+        "cleaning" : true,
+        "tableWare" : false,
+        "kitchen" : false,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 1,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 0.0,
+    "videoLink" : "",
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

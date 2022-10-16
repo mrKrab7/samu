@@ -1,0 +1,218 @@
+{
+	"_id" : "SR0459",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr-1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr-2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr-3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr-4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br-1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br-2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br-3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br-4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch-1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch-2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch-3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc-1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc-2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc-3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc-4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr-1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr-2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr-3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr-4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr-5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr-6.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Описание:",
+        "RU" : "Описание:"
+    },
+    "briefly" : {
+        "EN" : "One bedroom apartment with a shared swimming pool on Chaweng area",
+        "RU" : "Односпальные апартаменты с общим бассейном в самом популярном районе"
+    },
+    "description" : {
+        "EN" : "<p> The apartments are located 3 km from the beach. On the territory there are: a large swimming pool, gym, sauna. The living area has a TV, sofa, coffee table. The kitchen has a refrigerator, ceramic hob, microwave, kettle, toaster, oven. The bedroom has a double bed, air conditioning, a large wardrobe, exit to the balcony, where for convenience of guests there are two chairs and a small table. <Hr> </ p> <ul> <li> Cost: 25,000 baht / month regardless of season, when renting for a year, the price is 16,000 baht / month </ li> <li> WiFi is included. Extras are charged: electricity - 6 baht / kW, water - 350 baht / month,  checkout cleaning - 1000 baht. Booking deposit - 50% of the rental price, security deposit - 10,000 baht. </ Li> </ ul>",
+        "RU" : "<p>Апартаменты находятся в 3 км от пляжа. На территории расположены: большой бассейн, тренажерный зал, сауна. В гостиной зоне имеется телевизор, диван, журнальный столик. На кухне имеется холодильник, керамическая плита, микроволновая печь, чайник, тостер, духовая печь. В спальне двуспальная кровать, кондиционер, большой шкаф для одежды, выход на балкон, на котором для удобства гостей имеется два стула и маленький столик.<hr></p><ul><li>Стоимость: 25000 бат/месяц в независимости от сезона, при аренде на год цена - 16000 бат/месяц</li><li>WiFi включен в стоимость. Дополнительно оплачиваются:  электричество - 6 бат/кВт, вода - 350 бат/мес., уборка при выселении - 1000 бат. Депозит бронирования - 50% от стоимости аренды, сохранный депозит - 10000 бат.</li></ul>"
+    },
+    "type" : "apartments",
+    "beach" : "chaweng",
+    "monthPrice" : 25000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : true,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : false,
+        "grill" : true,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : false,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 1,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 3000.0,
+    "videoLink" : "https://youtu.be/3PIPUKx-Y5I",
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

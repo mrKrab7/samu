@@ -1,0 +1,422 @@
+{
+	"_id" : "SR0262",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_9.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr9.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr10.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr11.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr12.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Описание:",
+        "RU" : "Описание:"
+    },
+    "briefly" : {
+        "EN" : "3 bedroom Villa in the private area with the swimming pool on Lipa Noi.",
+        "RU" : "Трехспальная вилла в районе пляжа Липа Ной."
+    },
+    "description" : {
+        "EN" : "<ul> A great option for reasonable money! Each bedroom has a separate bathroom with shower and hot water. The Villa is fully equipped with furniture and appliances. The kitchen has a dining table, gas stove, refrigerator, microwave, toaster, kettle, as well as all necessary utensils for cooking. one of three bedrooms has a separate dressing area.  For vacationers with a small child, there is a baby cot. Bed linen, towels are provided. Air conditioning in every room. A small private swimming pool, well-kept enclosed area, parking, relaxation area by the pool. Within walking distance of the shop 7/11, a small coffee shop, to the beautiful and peaceful beach of Lipa Noi 7 minutes drive (2.7 km). <hr></p><ul><li>Price: start from 55 000 baht/month. Water, weekly cleaning and WiFi are included. </li><li>Electricity - 6 baht/unit. Damage Deposit - 20,000 baht. </li><li>Possible option of daily rent - 3500 baht/night (minimum 5 nights).</li></ul> ",
+        "RU" : "<ul>Трехспальная вилла в районе пляжа Липа Ной. Прекрасный вариант за разумные деньги! У каждой спальни есть отдельный санузел с раковиной и душем. Вилла полностью укомплектована мебелью и техникой. В кухне обеденный столик, газовая плита, холодильник, микроволновая печь, тостер, чайник, а также вся необходимая посуда для приготовления блюд. В одной из трех спален имеется отдельная зона гардеробной. Для отдыхающих с маленьким ребенком предусмотрена детская кроватка. Постельное белье, полотенца и посуда предоставляются. Кондиционеры в каждой комнате. Небольшой приватный бассейн, ухоженная закрытая территория, парковка, зона отдыха у бассейна. В шаговой доступности магазин 7/11, небольшая кофейня, до красивого и спокойного пляжа Липа Ной 7 минут езды (2,7 км). <hr></p><ul><li>Стоимость: от 55 000 бат/месяц. Вода, уборка раз в неделю и WiFi включены в стоимость.</li><li>Электричество - 6 бат/юнит. Сохранный депозит - 20000 бат.</li><li>Возможен вариант посуточной аренды - 3500 бат/ночь (минимум 5 ночей).</li></ul> "
+    },
+    "type" : "villa",
+    "beach" : "lipaNoi",
+    "dayPrice" : 3500.0,
+    "monthPrice" : 55000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : true,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : true,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 3,
+    "special" : false,
+    "washRoomCount" : 3,
+    "distanceToSea" : 2700.0,
+    "videoLink" : "https://youtu.be/6V3NogBzXH4",
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

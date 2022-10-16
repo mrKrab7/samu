@@ -1,0 +1,166 @@
+{
+	"_id" : "SR0128",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : null,
+        "RU" : null
+    },
+    "briefly" : {
+        "EN" : "Улучшенные апартаменты рядом с супермаркетом Теско Лотус на Чавенге.",
+        "RU" : "Улучшенные апартаменты рядом с супермаркетом Теско Лотус на Чавенге."
+    },
+    "description" : {
+        "EN" : " До пляжа Чавенг - 3,1 км. На территории апартаментов есть общий бассейн. Зона гостиной объединена с кухонной зоной. Однако на кухне, кроме холодильника нет ничего. В спальне централизованный кондиционер, двуспальная кровать и телевизор. Санузел просторный с душевой кабиной. Постельное белье и полотенца предоставляются. <hr>Стоимость: Низкий сезон 1 200 бат/день, 18 000 бат/мес., <br> Высокий сезон 1 800 бат/день, 22 000 бат/мес. <br>Включены все коммунальные платежи и уборка 2 раза в неделю со сменой белья и полотенец.",
+        "RU" : " До пляжа Чавенг - 3,1 км. На территории апартаментов есть общий бассейн. Зона гостиной объединена с кухонной зоной. Однако на кухне, кроме холодильника нет ничего. В спальне централизованный кондиционер, двуспальная кровать и телевизор. Санузел просторный с душевой кабиной. Постельное белье и полотенца предоставляются. <hr>Стоимость: Низкий сезон 1 200 бат/день, 18 000 бат/мес., <br> Высокий сезон 1 800 бат/день, 22 000 бат/мес. <br>Включены все коммунальные платежи и уборка 2 раза в неделю со сменой белья и полотенец."
+    },
+    "type" : "apartments",
+    "beach" : "chaweng",
+    "dayPrice" : 1200.0,
+    "monthPrice" : 18000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : false,
+        "teaPot" : false,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : false,
+        "cleaning" : true,
+        "tableWare" : false,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 1,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 3100.0,
+    "videoLink" : "https://youtu.be/mnvknwdK7FE",
+    "archived" : false,
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

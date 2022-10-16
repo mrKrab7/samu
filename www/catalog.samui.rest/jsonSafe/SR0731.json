@@ -1,0 +1,413 @@
+{
+	"_id" : "SR0731",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_8.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_9.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_10.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Дополнительно:",
+                "EN" : "Additional:"
+            },
+            "filename" : "add_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Дополнительно:",
+                "EN" : "Additional:"
+            },
+            "filename" : "add_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Дополнительно:",
+                "EN" : "Additional:"
+            },
+            "filename" : "add_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Дополнительно:",
+                "EN" : "Additional:"
+            },
+            "filename" : "add_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Четырехспальная вилла в 1,2 км от пляжа Чавенг.",
+        "EN" : "Краткое описание объекта тут должно быть."
+    },
+    "description" : {
+        "RU" : "Вилла находится в закрытом комплексе. Вилла в тропическом стиле с собственным бассейном, садом, 4 спальнями, каждая с ванной комнатой и полноценной укомплектованной кухней. Стильный интерьер виллы гармонично дополнен изумрудно-зелеными акцентами.Гости могут полюбоваться захватывающим видом на озеро Чавенг и тропические сады. Также к их услугам разнообразные удобства, в том числе приватный и общий бассейны, тренажерный зал и ресторан. От отеля можно легко добраться до основных достопримечательностей. Прогулка до торгового центра Central Festival Samui займет всего 5 минут, до прекрасного пляжа Чавенг — 5 минут езды на мотоцикле. Международный аэропорт Самуи находится в 3 км. <br><br>Стоимость: <br>14900 бат/сутки высокий сезон (с 1 декабря по 30 апреля и с 15 июля с 31 августа), <br>11900 бат/сутки в низкий сезон (с 1 мая по 14 июля и с 1 сентября по 30 ноября). <br>Включено в стоимость: завтрак, интеренет, вода, электричество, ежедневная уборка (смена постельного белья через день). <br>Дополнительная кровать 900 бат/сутки. <br>Депозит бронирования - 40% от стоимости.",
+        "EN" : "У этого объекта пока нет описания, но скоро мы его добавим. Если у вас нет времени ждать, просто свяжитесь с нами любым удобным способом и мы подробно расскажем вам об этом жилье."
+    },
+    "dayPrice" : NumberInt(11900),
+    "sleepingRoomCount" : 4,
+    "washRoomCount" : 5,
+    "distanceToSea" : NumberInt(1200),
+    "type" : "villa",
+    "beach" : "chaweng",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : true,
+        "grill" : true,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : true,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

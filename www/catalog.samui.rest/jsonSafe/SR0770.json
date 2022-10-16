@@ -1,0 +1,252 @@
+{
+	"_id" : "SR0770",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Уютная трехспальная вилла с бассейном в районе Банг По, 900 метров от пляжа. ",
+        "EN" : "Cozy three-bedroom Villa with swimming pool in Bang Po, 900 meters from the beach."
+    },
+    "description" : {
+        "RU" : "Вилла отличается особой чистотой и порядком. На территории виллы есть небольшой приватный бассейн. У бассейна расположены лежаки и зона отдыха. Просторная кухня со всей необходимой техникой и посудой. Гостиная и 2 спальни имеют прямой выход к бассейну. Две спальни из трех основные, третья - дополнительная, находится отдельно на 1 этаже, на данный момент пустая, при необходимости будет установлена кровать. Первая спальня с двуспальной кроватью, кондиционером и смешным с гостиной санузлом с душем. Вторая спальня просторнее, имеет кондиционер, потолочный вентилятор, телевизор, вид из окна на пальмовую рощу и море, свой санузел с полноценной ванной. На крыше виллы оборудованна терраса под навесом с даванчиками и журнальным столом. <br><br>Стоимость: от 67000 бат/месяц в низкий сезон. <br>Интернет и ежедневная уборка (смена постельного белья и полотенец раз в неделю) включены в стоимость. <br>Дополнительно оплачивается - электричество 8 бат/кВт, вода - 100 бат/1000л. <br>Сохранный депозит - 1000 долларов. <br>Депозит бронирования - 50% от стоимости аренды. ",
+        "EN" : "The Villa is particularly clean and tidy. The Villa has a small private pool. Sun loungers and a Seating area are available by the pool. Spacious kitchen with all necessary appliances and utensils. The living room and 2 bedrooms have direct access to the pool. Two bedrooms of the three main, the third - additional, located separately on the ground floor, currently empty, if necessary, a bed will be installed. The first bedroom has a double bed, air conditioning and a funny living room with a bathroom with shower. The second bedroom is spacious, has air conditioning, ceiling fan, TV, view from the window of the palm grove and the sea, a bathroom with a full bath. On the roof of the Villa is equipped with a covered terrace with advancemame and a coffee table. <br><br>Price: start from 67000 baht/month for low season. <br>Internet and daily cleaning (change of bed linen and towels once a week) are included. <br>Additional charge: electricity - 8 baht/kW, water - 100 baht/1000L. <br>Security Deposit - $ 1000. <br>Booking Deposit - 50% of the rental price."
+    },
+    "monthPrice" : NumberInt(67000),
+    "sleepingRoomCount" : 3,
+    "washRoomCount" : 3,
+    "distanceToSea" : NumberInt(900),
+    "type" : "villa",
+    "beach" : "bangPo",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "babyCot" : true,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : true,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : true
+    },
+    "videoLink" : "https://youtu.be/UqkW-m6VMCA",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

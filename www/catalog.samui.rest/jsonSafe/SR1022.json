@@ -1,0 +1,224 @@
+{
+	"_id" : "SR1022",
+    "special" : true,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Уединенная и тихая вилла в двух шагах от поистине очаровательных белых песчаных пляжей Липа Ной.",
+        "EN" : "A secluded and quiet villa just a stone's throw from the truly charming white sandy beaches of Lipa Noi."
+    },
+    "description" : {
+        "RU" : "Вилла входит в группу вилл с одной, двумя и тремя спальнями. <br>Имеет собственную полностью охраняемую территорию с тропическим садом и большим частным бассейном. Помимо двух просторных спален оборудованных кроватями размера «king-size» с кондиционерами и собственными ванными комнатами, здесь есть жилое пространство открытой планировки, гостиная с диваном и ЖК-телевизором с полностью оборудованной кухней и обеденной зоной. Обе спальни имеют выход к бассейну. <br>Эта вилла идеально подходит для тех, кто хочет провести отпуск в тишине и релаксации. Гости могут расслабиться в шезлонгах или в беседке у бассейна и полюбоваться видом на пышный тропический сад или совершить 1-минутную прогулку до пляжа. <br>Рестораны, где подают блюда местной и интернациональной кухни, пляжные бары и кафе находятся в пределах 1 км от виллы. <hr>Стоимость: <br>Высокий сезон (декабрь-март, июль, август): <br>Стоимость в сутки: от 6400 бат. <br>Низкий сезон (апрель-июнь, сентябрь-ноябрь): <br>Стоимость в сутки: от 3600 бат. <br>Минимальное количество ночей для бронирования: 5 <br>Дополнительно оплачиваются: Электричество, вода. <br>Включены в стоимость: WiFi, трансфер с пирса/аэропорта, обслуживание бассейна, уборка со сменой белья и полотенец. <br>Депозит для бронирования/сохранный депозит - 15000 бат или 500$.",
+        "EN" : "The villa is part of a group of villas with one, two and three bedrooms. <br>Has its own fully guarded area with a tropical garden and a large private pool. In addition to two spacious bedrooms with king-size beds with air conditioning and private bathrooms, there is an open-plan living space, a living room with a sofa and an LCD TV with a fully equipped kitchen and dining area. Both bedrooms have access to the pool. <br>This villa is ideal for those looking for a quiet and relaxing holiday. Guests can relax on the sun loungers or in the poolside gazebo overlooking the lush tropical garden, or take a 1-minute stroll to the beach. <br>Restaurants serving local and international cuisine, beach bars and cafes are within 1 km from the villa. <hr>Price: <br>High season (December-March, July, August): <br>Price per day: from 6400 baht. <br>Low season (April-June, September-November): <br>Price per day: from 3600 baht. <br>Minimum number of nights to book: 5 <br>Additionally paid: Electricity, water. <br>Included in the price: WiFi, transfer from the pier / airport, pool maintenance, cleaning with change of linen and towels. <br>Deposit for booking / safe deposit - 15,000 baht or 500 $. "
+    },
+    "dayPrice" : 3600.0,
+    "sleepingRoomCount" : 2,
+    "washRoomCount" : 2,
+    "distanceToSea" : 200.0,
+    "type" : "villa",
+    "beach" : "lipaNoi",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : true,
+        "dishWasher" : false,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

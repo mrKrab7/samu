@@ -1,0 +1,232 @@
+{
+	"_id" : "SR0333",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_7.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Двуспальный дом в резорте с общим бассейном",
+        "EN" : "Two-bedroom house in the resort with shared pool."
+    },
+    "description" : {
+        "RU" : "<ul>Территория резорта с большим озеленением. До пляжа Бопут и Фишерман Вилладж - 950 м. У бассейна отделена детская зона. У дома большая терраса с зоной отдыха. В гостиной имеется диван, телевизор, кондиционер, журнальный столик. На кухне небольшая обеденная зона, имеется газовая плита, тостер, термопот, холодильник, необходимая посуда. В первой спальне большая двуспальная кровать, шкаф для одежды, туалетный столик, кондиционер. Во второй спальне, большая кровать, небольшой комод, сушилка для белья и кондиционер. Просторный санузел оснащен раковиной унитазом и душем. <hr></p><ul><li>Стоимость: 24000 бат/мес.</li><li>Дополнительно оплачиваются вода - 45 бат/м3, электричество - 5 бат/кВт, газ - 500 бат/балон. При выселении взимается 500 бат за уборку.</li><li>Депозит для бронирования - 50000. Сохранный депозит - 5 000 бат.</li></ul>",
+        "EN" : "<ul> The area of the resort has landscaping. Distance to Bophut beach and Fisherman's village is 950 m. The pool has separated children's area. The house has a large terrace with a rest area. The living room has a sofa, TV, air conditioning, coffee table. The kitchen has a small dining area, a gas stove, toaster, teapot, refrigerator, tableware. The first bedroom has a large double bed, wardrobe, dressing table, air conditioning. The second bedroom has a large bed, a small chest of drawers, clothes dryer and air conditioning. The spacious bathroom is equipped with a toilet sink and shower. <hr></p><ul><li>Cost: 24000 baht / month.</li><li>Additional charge for water - 45 baht/m3, electricity-5 baht/kW, gas - 500 baht/cylinder. At check-out, 500 baht is charged for cleaning.< /li> <li>Deposit for booking – 50000. Safety Deposit – 5 000 baht.</li></ul>"
+    },
+    "dayPrice" : "",
+    "monthPrice" : 24000.0,
+    "sleepingRoomCount" : 2,
+    "washRoomCount" : 1,
+    "distanceToSea" : 950.0,
+    "type" : "house",
+    "beach" : "bophut",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : false,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "cleaning" : true,
+        "kitchen" : true,
+        "jungle" : false,
+        "kitchenWare" : true,
+        "tableWare" : true
+    },
+    "videoLink" : "https://youtu.be/POveoaoE9gI",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

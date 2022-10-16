@@ -1,0 +1,198 @@
+{
+	"_id" : "SR0011",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr4.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Ламай - 2 спальни",
+        "RU" : "Ламай - 2 спальни"
+    },
+    "briefly" : {
+        "EN" : "Двухспальные аппартаменты в районе IT комплекса на Ламай.",
+        "RU" : "Двухспальные аппартаменты в районе IT комплекса на Ламай."
+    },
+    "description" : {
+        "EN" : "Вариант с большой террасой, 1 санузел, 2 спальни, кухня, вся необходимая мебель и посуда, Wifi. На территории имеется общий бассейн. В пешей доступности один из красивейших пляжей Кристал Бэй и пляж Ламай, кафе, рестораны, аптека, 7/11 и Family Mart. Очень хороший вариант размещения для туристов без транспорта. До пляжа Crystal bay 550 метров. До пляжа Ламай 1900 метров. <hr>Стоимость: 30 000 бат, декабрь-март - 40 000 бат/месяц. <br>Возможна недельная аренда - 10 000 бат/неделя.<br>Сохранный депозит: 100$",
+        "RU" : "Вариант с большой террасой, 1 санузел, 2 спальни, кухня, вся необходимая мебель и посуда, Wifi. На территории имеется общий бассейн. В пешей доступности один из красивейших пляжей Кристал Бэй и пляж Ламай, кафе, рестораны, аптека, 7/11 и Family Mart. Очень хороший вариант размещения для туристов без транспорта. До пляжа Crystal bay 550 метров. До пляжа Ламай 1900 метров. <hr>Стоимость: 30 000 бат, декабрь-март - 40 000 бат/месяц. <br>Возможна недельная аренда - 10 000 бат/неделя.<br>Сохранный депозит: 100$"
+    },
+    "type" : "apartments",
+    "beach" : "lamai",
+    "monthPrice" : 30000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : true,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 2,
+    "special" : false,
+    "washRoomCount" : 1,
+    "parkingPlaceCount" : 0,
+    "distanceToSea" : 550.0,
+    "videoLink" : "https://youtu.be/2st_9KqkyZY",
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

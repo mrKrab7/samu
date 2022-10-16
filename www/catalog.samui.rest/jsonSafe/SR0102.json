@@ -1,0 +1,155 @@
+{
+	"_id" : "SR0102",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Мэнам - 1 спальня",
+        "RU" : "Мэнам - 1 спальня"
+    },
+    "briefly" : {
+        "EN" : "Однопальные апартаменты в районе пляжа Мэнам с общим бассейном.",
+        "RU" : "Однопальные апартаменты в районе пляжа Мэнам с общим бассейном."
+    },
+    "description" : {
+        "EN" : "Апартаменты полностью мебелированы, постельное белье и полотенца предоставляются. На кухне имеется большой холодильник, чайник, посуда. Печи нет. В спальне кровать кинг сайз, шкаф для одежды, туалетный столик, телевизор. Напротив кровати выход на балкон с великолепным видом на джунгли. Санузел с душевой. Уборка 3 раза в месяц включена в стоимость. WiFi включен в стоимость. Вода и электричество оплачивается дополнительно. Стоимость: 25000 бат/мес. от 1200 бат/сут.",
+        "RU" : "Апартаменты полностью мебелированы, постельное белье и полотенца предоставляются. На кухне имеется большой холодильник, чайник, посуда. Печи нет. В спальне кровать кинг сайз, шкаф для одежды, туалетный столик, телевизор. Напротив кровати выход на балкон с великолепным видом на джунгли. Санузел с душевой. Уборка 3 раза в месяц включена в стоимость. WiFi включен в стоимость. Вода и электричество оплачивается дополнительно. Стоимость: 25000 бат/мес. от 1200 бат/сут."
+    },
+    "type" : "apartments",
+    "beach" : "maenam",
+    "dayPrice" : 1200.0,
+    "monthPrice" : 25000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : false,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 1,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 2100.0,
+    "archived" : true,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

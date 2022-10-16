@@ -1,0 +1,207 @@
+{
+	"_id" : "SR0200",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr7.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Односпальный дом Мэнам",
+        "RU" : "Односпальный дом Мэнам"
+    },
+    "briefly" : {
+        "EN" : "Односпальный дом в резорте с общим бассейном в районе Мэнам.",
+        "RU" : "Односпальный дом в резорте с общим бассейном в районе Мэнам."
+    },
+    "description" : {
+        "EN" : "Дом не новый, нуждается в косметическом ремонте. 400 метров до пляжа Мэнам, 550 до пляжа Бопут. <br>Зона гостиной с диваном и телевизором объединена с кухонной зоной. На кухне есть только холодильник, термопот и микроволновая печь. <br>Спальня с двуспальной кроватью, кондиционером, шкафом для одежды и туалетным столиком. <br>Санузел с душем. <br>Постельное белье предоставляется, полотенец нет. <hr>Стоимость: 8 500 бат/мес. - низкий сезон, 10 000 бат/мес. - высокий сезон. <br>WiFi - включен в стоимость. <br>Дополнительно оплачиваются электричество - 5 бат/кВт, вода - 18 бат/м3. <br>Сохранный депозит - 8500 бат.",
+        "RU" : "Дом не новый, нуждается в косметическом ремонте. 400 метров до пляжа Мэнам, 550 до пляжа Бопут. <br>Зона гостиной с диваном и телевизором объединена с кухонной зоной. На кухне есть только холодильник, термопот и микроволновая печь. <br>Спальня с двуспальной кроватью, кондиционером, шкафом для одежды и туалетным столиком. <br>Санузел с душем. <br>Постельное белье предоставляется, полотенец нет. <hr>Стоимость: 8 500 бат/мес. - низкий сезон, 10 000 бат/мес. - высокий сезон. <br>WiFi - включен в стоимость. <br>Дополнительно оплачиваются электричество - 5 бат/кВт, вода - 18 бат/м3. <br>Сохранный депозит - 8500 бат."
+    },
+    "type" : "house",
+    "beach" : "maenam",
+    "monthPrice" : 8500.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : false,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : false,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : false,
+        "refrigerator" : true,
+        "kitchenWare" : false,
+        "cleaning" : false,
+        "tableWare" : false,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 1,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 400.0,
+    "videoLink" : "https://youtu.be/HzAM71wOuRU",
+    "archived" : true,
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

@@ -1,0 +1,148 @@
+{
+	"_id" : "SR0052",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr4.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Чавенг - 1 спальня",
+        "RU" : "Чавенг - 1 спальня"
+    },
+    "briefly" : {
+        "EN" : "Студия площадью 31 м2 в районе пляжа Чавенг в кондоминимуме в общим бассейном.",
+        "RU" : "Студия площадью 31 м2 в районе пляжа Чавенг в кондоминимуме в общим бассейном."
+    },
+    "description" : {
+        "EN" : "Кухня, зона гостиной объединены со спальней с большой двуспальной кроватью и кондиционером, санузел с душем. Вариант понравится людям, любящим ранние пробуждения, или крепко спящим, т.к. рядом находится петушинная ферма. До супермаркета Tesco  5 минут езды, то пляжа Чавенг - 5 минут езды. Стоимость: <br>Низкий сезон(15 апр. - 15 июля, 15 сен. - 20 дек.): 700 бат/сут., 3500 бат/нед., 11000 бат/мес. <br>Высокий сезон(15 июля - 15 сен., 20 янв. - 15 апр.): 1000 бат/сут., 4500 бат/нед., 14000 бат/мес.<br>Пиковый сезон(20 дек. - 20 янв.): 1500 бат/сут. 7500 бат/нед.",
+        "RU" : "Кухня, зона гостиной объединены со спальней с большой двуспальной кроватью и кондиционером, санузел с душем. Вариант понравится людям, любящим ранние пробуждения, или крепко спящим, т.к. рядом находится петушинная ферма. До супермаркета Tesco  5 минут езды, то пляжа Чавенг - 5 минут езды. Стоимость: <br>Низкий сезон(15 апр. - 15 июля, 15 сен. - 20 дек.): 700 бат/сут., 3500 бат/нед., 11000 бат/мес. <br>Высокий сезон(15 июля - 15 сен., 20 янв. - 15 апр.): 1000 бат/сут., 4500 бат/нед., 14000 бат/мес.<br>Пиковый сезон(20 дек. - 20 янв.): 1500 бат/сут. 7500 бат/нед."
+    },
+    "type" : "apartments",
+    "beach" : "chaweng",
+    "dayPrice" : 700.0,
+    "monthPrice" : 11000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 0,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 3000.0,
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

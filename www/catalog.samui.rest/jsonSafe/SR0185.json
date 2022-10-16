@@ -1,0 +1,443 @@
+{
+	"_id" : "SR0185",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_9.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_10.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_9.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_10.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Третья спальня:",
+                "RU" : "Третья спальня:"
+            },
+            "filename" : "br3_11.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch9.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch10.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch11.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch12.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch13.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch15.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch16.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr6.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Банг По - 3 спальни",
+        "RU" : "Банг По - 3 спальни"
+    },
+    "briefly" : {
+        "EN" : "Приватная трехспальная вилла с бассейном и прямым выходом к пляжу Банг По.",
+        "RU" : "Приватная трехспальная вилла с бассейном и прямым выходом к пляжу Банг По."
+    },
+    "description" : {
+        "EN" : "Вилла разделена на 2 части: двухэтажный корпус со спальнями и отдельный корпус с гостиной и кухней.  В здании общей зоны расположены диваны, обеденная зона, санузел с душем, кухня, установлен кондиционер. На кухне есть вся посуда и необходимая техника: холодильник, рисоварка, блендер, тостер, плита. Во второй части вилы на первом этаже есть небольшая зона гостиной с диваном и телевизором и первая спальня. ",
+        "RU" : "Вилла разделена на 2 части: двухэтажный корпус со спальнями и отдельный корпус с гостиной и кухней.  В здании общей зоны расположены диваны, обеденная зона, санузел с душем, кухня, установлен кондиционер. На кухне есть вся посуда и необходимая техника: холодильник, рисоварка, блендер, тостер, плита. Во второй части вилы на первом этаже есть небольшая зона гостиной с диваном и телевизором и первая спальня. "
+    },
+    "type" : "villa",
+    "beach" : "bangPo",
+    "dayPrice" : 0.0,
+    "monthPrice" : 0.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : true,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 3,
+    "special" : false,
+    "washRoomCount" : 3,
+    "distanceToSea" : 20.0,
+    "videoLink" : "https://youtu.be/vOdMU_9I5cg",
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

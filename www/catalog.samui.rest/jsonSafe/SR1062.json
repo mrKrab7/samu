@@ -1,0 +1,224 @@
+{
+	"_id" : "SR1062",
+    "special" : true,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Эксклюзивная четырехспальная вилла с видом на океан в районе пляжа Чавенг-Ной.",
+        "EN" : "Exclusive four bedroom villa with ocean views in the Chaweng Noi beach area."
+    },
+    "description" : {
+        "RU" : "На первом этаже Вас встречает большая гостиная открытой планировки с выходом к пейзажному бассейну, полностью оборудованная кухня с обеденной зоной на 6 персон и просторная терраса на свежем воздухе с панорамным видом на море. <br>Четыре спальни на втором этаже оборудованные собственными ванными комнатами и гардеробными, а главная спальня оборудована ванной. <br>Имеется своя парковка для автомобиля. <br>Для большой компании есть абсолютно идентичные виллы по соседству. <br>Вы будете находиться в 3 минутах езды от пляжа Чавенг Ной и 10 минутах езды от центра Чавенг и Central Festival. <hr>Стоимость: <br>Высокий сезон (декабрь-март, июль, август): <br>Стоимость в сутки: 18000 бат. <br>Низкий сезон (апрель-июнь, сентябрь-ноябрь): <br>Стоимость в сутки: 11000 бат.  <br>Дополнительно оплачиваются: <br>Электричество - 7 бат/кВт. <br>Вода - 150 бат/м3. <br>Включены в стоимость: WiFi, трансфер с пирса/аэропорта, обслуживание бассейна, уборка со сменой белья и полотенец. <br>Депозит для бронирования/сохранный депозит - 15000 бат или 500$.",
+        "EN" : "On the ground floor, you are greeted by a large open-plan living room with access to the infinity pool, a fully equipped kitchen with dining area for 6 and a spacious outdoor terrace with panoramic sea views. <br>Four bedrooms on the second floor are equipped with their own bathrooms and dressing rooms, and the master bedroom is equipped with a bathroom. <br>There is a parking lot for the car. <br>For a large company, there are absolutely identical villas in the neighborhood. <br>You will be 3 minutes drive from Chaweng Noi Beach and 10 minutes drive from Chaweng Center and Central Festival. <hr>Price: <br>High season (December-March, July, August): <br>Price per day: 18,000 baht. <br>Low season (April-June, September-November): <br>Price per day: 11,000 baht. <br>Additionally paid: <br>Electricity - 7 baht / Unit. <br>Water - 150 baht / Unit <br>Included in the price: WiFi, transfer from the pier / airport, pool service, cleaning with a change of linen and towels. <br>Deposit for booking / safe deposit - 15,000 baht or 500$."
+    },
+    "dayPrice" : 11000.0,
+    "sleepingRoomCount" : 4,
+    "washRoomCount" : 4,
+    "distanceToSea" : 1300.0,
+    "type" : "villa",
+    "beach" : "chawengNoi",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : true,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

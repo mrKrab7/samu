@@ -1,0 +1,364 @@
+{
+	"_id" : "SR0367",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_8.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_9.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_10.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_8.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_9.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_8.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_8.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_9.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Двуспальный таунхаус в 2 этажа всего в 10 минутах ходьбы от пляжа Бопут и знаменитой прогулочной улицы Fisherman's Village.",
+        "EN" : "Two-storey 2 bedroom townhouse  just a 10-minute walk from Bophut beach and the famous walking street Fisherman's Village."
+    },
+    "description" : {
+        "RU" : "Территория комплекса приватная, имеет свою парковку. Большой бассейн не оставит равнодушным ни взрослых ни детей. Вокруг бассейна расположены лежаки и имеется уличный душ для удобства. Перед входом имеется небольшая веранда с местом для отдыха. <br>Таунхаус полностью меблирован. На первом этаже расположены зоны гостиной, обеденная зона, гостевой туалет и кухня. На кухне есть все необходимое: газовая плита, вытяжка, холодильник, духовка, микроволновая печь, чайник, тостер, кофеварка, блендер, мультиварка, посудомоечная машина, посуда и столовые приборы. На заднем дворе установлена стиральная машина с горячей водой. <br>На втором этаже расположены спальни. Основная спальня с двуспальной кроватью, TV,  шкафом для одежды с сейфом, туалетным столиком и с выходом на балкон с видом на бассейн. Спальня имеет свой санузел ванной с гидромассажем. <br>Вторая спальня так же с двуспальной кроватью. Вдоль всей стены в комнате встроен вместительный шкаф, свой санузел с душем. Кондиционеры установлены как на первом этаже, так и в каждой из спален. Имеются утюг, фен, гладильная доска. <br><br>Стоимость: 35000 бат/мес. - октрябрь и ноябрь; 38000 бат/мес. - апрель,май, июнь, июль; 40000 бат/мес. - сентябрь; 45000 бат/мес - март и август, 50000 бат/мес. - февраль, 60000 бат/мес. - январь, 65000 бат/мес. - декабрь. <br>Дополнительно оплачиваются: уборка при выезде - 1500 бат, электричество - 7 бат/кВт. <br>Сохранный депозит - 500 $. <br>Депозит на бронирование - 50% от суммы аренды.",
+        "EN" : "The territory of the complex is private, has its own Parking. The large swimming pool will not leave indifferent neither adults nor children. There are sun beds around the pool and an outdoor shower for convenience. In front of the entrance there is a small veranda with a place to relax. <br>The townhouse is fully furnished. On the ground floor there are living areas, a dining area, a guest toilet and a kitchen. The kitchen has everything you need: gas stove, extractor hood, refrigerator, oven, microwave, kettle, toaster, coffee maker, blender, multi-cooker, dishwasher, dishes and Cutlery. There is a washing machine with hot water in the backyard. <br>On the second floor there are bedrooms. The master bedroom has a double bed, TV, wardrobe with safe, dressing table and access to a balcony overlooking the pool. The bedroom has its own bathroom with a hydro massage bath. <br>The second bedroom also has a double bed. Along the entire wall of the room there is a spacious wardrobe, a bathroom with a shower. Air conditioning is installed both on the ground floor and in each of the bedrooms. There is an iron, hair dryer, and Ironing Board. <br><br>Cost: 35,000 baht / month-October and November; 38,000 baht / month. - April, may, June, July; 40,000 baht / month-September; 45,000 baht/month - March and August, 50,000 baht/month - February, 60,000 baht/month - January, 65,000 baht / month - December. <br>Additional charges: cleaning at check-out-1500 baht, electricity-7 baht / kW. <br>Secure Deposit is $ 500. <br / >Deposit for booking - 50% of the rental amount."
+    },
+    "monthPrice" : NumberInt(35000),
+    "sleepingRoomCount" : 2,
+    "washRoomCount" : 2.5,
+    "distanceToSea" : NumberInt(900),
+    "type" : "townhouse",
+    "beach" : "bophut",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : true,
+        "dishWasher" : true,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

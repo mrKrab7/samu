@@ -1,0 +1,197 @@
+{
+	"_id" : "SR0008",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Вторая спальня:",
+                "RU" : "Вторая спальня:"
+            },
+            "filename" : "br2_6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch3.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "2BR townhouse for long term lease",
+        "RU" : "2-х спальный таунхаус Ламай."
+    },
+    "briefly" : {
+        "EN" : "2BR townhouse for long term lease",
+        "RU" : "Двухэтажный таунхаус в хорошем состоянии в районе пляжа Ламай. Отличный вариант жилья в соотношение цена/качества для длительной аренды."
+    },
+    "description" : {
+        "EN" : "On the ground floor there is a living room, kitchen, bathroom and a small pantry. Second floor: 2 bedrooms, each with its own bathroom, balcony to the front yard. Gas stove outside in the backyard. There is a refrigerator and a microwave. After the last tenants replaced all pillows and bed linen. Construction work in the neighborhood is over. Rent from 3 months. <br><br>Cost - 18 000 baht/month. <br>Additional charge: electricity - 6 baht/kW, water - 200 baht/month. <br>Security Deposit - 10000 baht.",
+        "RU" : "На первом этаже гостиная, кухня, санузел и небольшая кладовая. Второй этаж: 2 спальни, каждая со своим санузлом, балкон на передний двор. Газовая печь на улице на заднем дворе. Имеется холодильник и микроволновая печь. После последних арендаторов заменены все подушки и постельное белье. Строительные работы по соседству окончены. Аренда от 3-х месяцев. <br><br>Стоимость - 18 000 бат/мес. <br>Дополнительно оплачивается: электричество - 6 бат/квт, вода - 200 бат/мес. <br>Сохранный депозит - 10000 бат."
+    },
+    "type" : "house",
+    "beach" : "lamai",
+    "monthPrice" : 18000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : false,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : false,
+        "terrace" : false,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 2,
+    "special" : false,
+    "washRoomCount" : 3,
+    "parkingPlaceCount" : 1,
+    "distanceToSea" : 2300.0,
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

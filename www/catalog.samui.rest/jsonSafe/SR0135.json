@@ -1,0 +1,207 @@
+{
+	"_id" : "SR0135",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостинная:",
+                "RU" : "Гостинная:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостинная:",
+                "RU" : "Гостинная:"
+            },
+            "filename" : "lr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостинная:",
+                "RU" : "Гостинная:"
+            },
+            "filename" : "lr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория",
+                "RU" : "Территория"
+            },
+            "filename" : "tr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория",
+                "RU" : "Территория"
+            },
+            "filename" : "tr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория",
+                "RU" : "Территория"
+            },
+            "filename" : "tr4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория",
+                "RU" : "Территория"
+            },
+            "filename" : "tr5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория",
+                "RU" : "Территория"
+            },
+            "filename" : "tr6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория",
+                "RU" : "Территория"
+            },
+            "filename" : "tr7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория",
+                "RU" : "Территория"
+            },
+            "filename" : "tr8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc4.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Описание:",
+        "RU" : "Описание:"
+    },
+    "briefly" : {
+        "EN" : "Односпальный дом с приватной территорией в районе Липа Ной.",
+        "RU" : "Односпальный дом с приватной территорией в районе Липа Ной."
+    },
+    "description" : {
+        "EN" : "<p>Односпальный дом с приватной территорией в районе Липа Ной. В доме есть гостиная зона с диваном и телевизором, объединенная с кухней. На кухне есть термопот, мультиварка, холодильник и вся необходимая посуда. Спальня с кондиционером, двуспальной кроватью, шкафом для одежды и туалетным столиком. Постельное белье и полотенца предоставляются. На окнах имеются москитные сетки. Санузел с душем. Уборка 1 раз в месяц включена в стоимость. <hr></p><ul><li>Стоимость: 17 000 бат/мес. - низкий сезон, 25 000 бат/мес. с учетом коммунальных платежей. <br>Посуточная аренда: 1000 бат/ночь - низкий сезон и 1800 бат/ночь - высокий сезон.  </li><li>Дополнительная уборка - 500 бат со сменой белья и полотенец.</li></ul> ",
+        "RU" : "<p>Односпальный дом с приватной территорией в районе Липа Ной. В доме есть гостиная зона с диваном и телевизором, объединенная с кухней. На кухне есть термопот, мультиварка, холодильник и вся необходимая посуда. Спальня с кондиционером, двуспальной кроватью, шкафом для одежды и туалетным столиком. Постельное белье и полотенца предоставляются. На окнах имеются москитные сетки. Санузел с душем. Уборка 1 раз в месяц включена в стоимость. <hr></p><ul><li>Стоимость: 17 000 бат/мес. - низкий сезон, 25 000 бат/мес. с учетом коммунальных платежей. <br>Посуточная аренда: 1000 бат/ночь - низкий сезон и 1800 бат/ночь - высокий сезон.  </li><li>Дополнительная уборка - 500 бат со сменой белья и полотенец.</li></ul> "
+    },
+    "type" : "house",
+    "beach" : "lipaNoi",
+    "dayPrice" : 1000.0,
+    "monthPrice" : 17000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : false,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : false,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : false,
+        "kitchen" : true,
+        "jungle" : true
+    },
+    "sleepingRoomCount" : 1,
+    "special" : false,
+    "square" : 150.0,
+    "washRoomCount" : 1,
+    "parkingPlaceCount" : 2,
+    "distanceToSea" : 0.0,
+    "videoLink" : "https://youtu.be/K6Y69qm2WBM",
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

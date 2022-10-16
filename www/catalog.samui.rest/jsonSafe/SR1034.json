@@ -1,0 +1,364 @@
+{
+	"_id" : "SR1034",
+    "special" : true,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Пятая спальня:",
+                "EN" : "Fifth bedroom:"
+            },
+            "filename" : "br5_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Пятая спальня:",
+                "EN" : "Fifth bedroom:"
+            },
+            "filename" : "br5_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Пятая спальня:",
+                "EN" : "Fifth bedroom:"
+            },
+            "filename" : "br5_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Пятая спальня:",
+                "EN" : "Fifth bedroom:"
+            },
+            "filename" : "br5_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Пятая спальня:",
+                "EN" : "Fifth bedroom:"
+            },
+            "filename" : "br5_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Шестая спальня:",
+                "EN" : "Sixth bedroom:"
+            },
+            "filename" : "br6_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Шестая спальня:",
+                "EN" : "Sixth bedroom:"
+            },
+            "filename" : "br6_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Шестая спальня:",
+                "EN" : "Sixth bedroom:"
+            },
+            "filename" : "br6_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Шестая спальня:",
+                "EN" : "Sixth bedroom:"
+            },
+            "filename" : "br6_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Шестая спальня:",
+                "EN" : "Sixth bedroom:"
+            },
+            "filename" : "br6_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Просторная и комфортабельная вилла с современным дизайном идеально подходит для спокойного отдыха с семьей и друзьями.",
+        "EN" : "This spacious and comfortable villa with a modern design is ideal for a relaxing holiday with family and friends."
+    },
+    "description" : {
+        "RU" : "Вилла предлагает открытое пространство, откуда открывается потрясающий вид на море с террасы, гостиной и спален. Сидя на террасе, вы сможете созерцать захватывающий пейзаж. Современное и хорошо продуманное пространство с прекрасной тайской атмосферой. Гостиная оборудована телевизором, удобным диваном и звуковой системой, обеденная зона на 12 персон, а также полностью оборудованная американская кухня. <br>Четыре спальни с ванными комнатами, полностью оборудованными гардеробными, кондиционерами и потолочными вентиляторами. Две спальни имеют частный вид на море, выход на террасу и к бассейну. Две другие спальни имеют прекрасный вид на горы и джунгли. <br>Ещё две дополнительных спальни имеют свои преимущества. Обе спальни имеют отдельный вход и общую террасу. Одна спальня люкс дополнительно оборудована спортивным залом и имеет собственную ванную комнату с ванной. Другая спальня помимо ванной комнаты с гардеробной, имеет в своём распоряжении небольшую полностью оборудованную кухню. <br>Вилла с видом на тихую природу расположена между Ламай и Хуа Танон, в 3-5 минутах езды от пляжа Ламай, где вы найдете рестораны, бары, супермаркеты и множество развлечений. <br>Вилла расположена в 6 км от водопадов На Мыанг и в 4 км от тигрового зоопарка и аквариума. <hr>Стоимость: <br>Высокий сезон (декабрь-март, июль, август): <br>Стоимость в сутки: от 25000 бат. <br>Низкий сезон (апрель-июнь, сентябрь-ноябрь): <br>Стоимость в сутки: от 18000 бат. <br>Дополнительно оплачиваются: <br>Электричество - 7 бат/кВт. <br>Вода - 30 бат/м3. <br>Включены в стоимость: WiFi, трансфер с пирса/аэропорта, обслуживание бассейна, уборка со сменой белья и полотенец. <br>Депозит для бронирования/сохранный депозит - 15000 бат или 500$.",
+        "EN" : "The villa offers open space with stunning sea views from the terrace, living room and bedrooms. Sitting on the terrace, you can contemplate the breathtaking landscape. A modern and well designed space with a great Thai vibe. The living room is equipped with a TV, comfortable sofa and sound system, a dining area for 12 people, and a fully equipped American kitchen. <br>Four en-suite bedrooms with fully equipped walk-in closets, air conditioning and ceiling fans. Two bedrooms have private sea views, access to the terrace and pool area. The other two bedrooms have wonderful views of the mountains and jungle. <br>Two additional bedrooms have their own perks. Both bedrooms have a separate entrance and a shared terrace. One suite bedroom is additionally equipped with a gym and has its own bathroom with a bathtub. The other bedroom, in addition to the bathroom with a dressing room, has at its disposal a small fully equipped kitchen. <br>Situated between Lamai and Hua Thanon, this villa overlooking a peaceful nature is a 3-5 minute drive from Lamai Beach, where you will find restaurants, bars, supermarkets and many entertainment options. <br>The villa is located 6 km from Na Mueang Falls and 4 km from Tiger Zoo and Aquarium. <hr>Price: <br>High season (December-March, July, August): <br>Price per day: from 25,000 baht. <br>Low season (April-June, September-November): <br>Price per day: from 18,000 baht. <br>Additionally paid: <br>Electricity - 7 baht / unit. <br>Water - 30 baht / unit. <br>Included in the price: WiFi, transfer from the pier / airport, pool service, cleaning with a change of linen and towels. <br>Deposit for booking / safe deposit - 15,000 baht or 500$."
+    },
+    "dayPrice" : 18000.0,
+    "sleepingRoomCount" : 6,
+    "washRoomCount" : 6,
+    "distanceToSea" : 1300.0,
+    "type" : "villa",
+    "beach" : "lamai",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : true,
+        "dishWasher" : true,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : true,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

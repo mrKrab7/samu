@@ -1,0 +1,91 @@
+{
+	"_id" : "SR0025",
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "room 1",
+                "EN" : "room 1"
+            },
+            "filename" : "example_2.jpeg"
+        },
+        {
+            "title" : {
+                "RU" : "room 2",
+                "EN" : "room 2"
+            },
+            "filename" : "example_3.jpeg"
+        },
+        {
+            "title" : {
+                "RU" : "room 3",
+                "EN" : "room 3"
+            },
+            "filename" : "example_4.jpeg"
+        }
+    ],
+    "title" : {
+        "RU" : "4-спальная вилла Чонгмон",
+        "EN" : "4-спальная вилла Чонгмон"
+    },
+    "briefly" : {
+        "RU" : "Двухэтажная вилла с 4 спальнями общей площадью 175 м2 идеально для размещения до 8 человек.",
+        "EN" : "Двухэтажная вилла с 4 спальнями общей площадью 175 м2 идеально для размещения до 8 человек."
+    },
+    "description" : {
+        "RU" : "2 санузла с душем, по 1 на каждом этаже, кухня, гостиная на 2 этаже. Имеется вся необходимая мебель, кровати на 1 этаже 1 спальнях- king size, вторая - 2 односпальных, на втором этаже обе спальни с кроватями king size, кондиционеры, TV, сейф, газовая печь,  микроволновая печь, чанйик, вся посуда. Терассы на 1 и на 2 тором этаже. Вода, электричество и WiFi уже включены в стоимость. Для посуточного и недельного размещений уборка производится каждый день, при месечном размещении - раз в неделю. При посуточном и недельном размещении завтраки включены.  Стоимость высокий/низкий сезоны: в день 16000/13000 бат/сутки, 95000/75000 бат/неделя, 180000/150000 бат/месяц. На апрель, май и июнь - доп скидка на размещение - 15%.",
+        "EN" : "2 санузла с душем, по 1 на каждом этаже, кухня, гостиная на 2 этаже. Имеется вся необходимая мебель, кровати на 1 этаже 1 спальнях- king size, вторая - 2 односпальных, на втором этаже обе спальни с кроватями king size, кондиционеры, TV, сейф, газовая печь,  микроволновая печь, чанйик, вся посуда. Терассы на 1 и на 2 тором этаже. Вода, электричество и WiFi уже включены в стоимость. Для посуточного и недельного размещений уборка производится каждый день, при месечном размещении - раз в неделю. При посуточном и недельном размещении завтраки включены.  Стоимость высокий/низкий сезоны: в день 16000/13000 бат/сутки, 95000/75000 бат/неделя, 180000/150000 бат/месяц. На апрель, май и июнь - доп скидка на размещение - 15%."
+    },
+    "type" : "villa",
+    "beach" : "choengMon",
+    "dayPrice" : 13000.0,
+    "monthPrice" : 150000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : true,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 4,
+    "special" : false,
+    "washRoomCount" : 2,
+    "distanceToSea" : 650.0,
+    "archived" : true,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

@@ -1,0 +1,252 @@
+{
+	"_id" : "SR1042",
+    "special" : true,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиные:",
+                "EN" : "Living rooms:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиные:",
+                "EN" : "Living rooms:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиные:",
+                "EN" : "Living rooms:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиные:",
+                "EN" : "Living rooms:"
+            },
+            "filename" : "lr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиные:",
+                "EN" : "Living rooms:"
+            },
+            "filename" : "lr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиные:",
+                "EN" : "Living rooms:"
+            },
+            "filename" : "lr_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиные:",
+                "EN" : "Living rooms:"
+            },
+            "filename" : "lr_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиные:",
+                "EN" : "Living rooms:"
+            },
+            "filename" : "lr_8.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухни:",
+                "EN" : "Kitchens:"
+            },
+            "filename" : "kch1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухни:",
+                "EN" : "Kitchens:"
+            },
+            "filename" : "kch1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухни:",
+                "EN" : "Kitchens:"
+            },
+            "filename" : "kch1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухни:",
+                "EN" : "Kitchens:"
+            },
+            "filename" : "kch1_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Спальни:",
+                "EN" : "Bedrooms:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Спальни:",
+                "EN" : "Bedrooms:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Спальни:",
+                "EN" : "Bedrooms:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Спальни:",
+                "EN" : "Bedrooms:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Спальни:",
+                "EN" : "Bedrooms:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Спальни:",
+                "EN" : "Bedrooms:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Спальни:",
+                "EN" : "Bedrooms:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_7.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Просторная вилла для отдыха с потрясающим видом на океан, где вы найдете свое собственное тропическое убежище.",
+        "EN" : "Spacious holiday villa with stunning ocean views where you will find your own tropical retreat."
+    },
+    "description" : {
+        "RU" : "Вилла имеет множество замечательных функций, включая зону йоги и фитнеса с тренажерным залом, бильярдный стол, но самыми удивительными являются невероятные виды на морской парк Ангтонг через Сиамский залив и за его пределы. <br>Тишина и покой царят в вашем частном доме для отдыха, соединенном с просторной виллой-бунгало для вашего личного пользования, в которой расположена четвертая спальня, дополнительная кухня и приватный бассейн на террасе. <br>В главной вилле расположены три спальных комнаты с собственными ванными комнатами и гардеробной, полностью оборудованная кухня с обеденной зоной на 8 персон, просторная гостиная с ТВ и диваном, пейзажный бассейн, терраса с дополнительной зоной отдыха у бассейна и барбекю. <br>Рестораны, магазины, пляжные бары и кафе находятся в пределах 2 км от виллы. <hr>Стоимость: <br>Высокий сезон (декабрь-март, июль, август): <br>Стоимость в сутки: 24700 бат. <br>Низкий сезон (апрель-июнь, сентябрь-ноябрь): <br>Стоимость в сутки: 12400 бат. <br>Минимальное количество ночей для бронирования: 3 <br>Дополнительно оплачиваются: Электричество, вода. <br>Включены в стоимость: WiFi, трансфер с пирса/аэропорта, обслуживание бассейна, уборка со сменой белья и полотенец. <br>Депозит для бронирования/сохранный депозит - 30000 бат или 1000$.",
+        "EN" : "The villa has many great features, including a yoga and fitness area with a gym and a pool table, but most amazing are the incredible views across the Gulf of Thailand and beyond. <br>Peace and quiet reign in your private holiday home, connected to a spacious bungalow villa for your personal use, which includes a fourth bedroom, an additional kitchen and a private pool on the terrace. <br>The main villa has three bedrooms with en suite bathrooms and dressing room, a fully equipped kitchen with dining area for 8 people, a spacious living room with TV and sofa, an infinity pool, a terrace with an additional seating area by the pool and barbecue. <br>Restaurants, shops, beach bars and cafes are within 2 km from the villa. <hr>Price: <br>High season (December-March, July, August): <br>Price per day: 24,700 baht. <br>Low season (April-June, September-November): <br>Price per day: 12,400 baht. <br>Minimum number of nights to book: 3 <br>Additionally paid: Electricity, water. <br>Included in the price: WiFi, transfer from the pier / airport, pool maintenance, cleaning with change of linen and towels. <br>Deposit for booking / safe deposit - 30,000 baht or 1000$."
+    },
+    "dayPrice" : 12400.0,
+    "sleepingRoomCount" : 4,
+    "washRoomCount" : 4,
+    "distanceToSea" : 2000.0,
+    "type" : "villa",
+    "beach" : "nathon",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : false,
+        "grill" : true,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : true,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

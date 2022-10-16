@@ -1,0 +1,252 @@
+{
+	"_id" : "SR1037",
+    "special" : true,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Уникальное и волшебное место, где вы можете полюбоваться природой и открыть для себя один из самых красивых закатов острова.",
+        "EN" : "This spacious and comfortable villa with a modern design is ideal for a relaxing holiday with family and friends."
+    },
+    "description" : {
+        "RU" : "Вилла предлагает большой участок земли 980 кв.м с тропическим садом. Имеет одну большую крытую парковку и автоматические ворота. <br>Деревянная дверь в азиатском стиле открывает потрясающий вид на море и частный пейзажный бассейн. Терраса вмещает большой обеденный стол на 8 персон с зоной отдыха и местом для барбекю. Большая гостиная с двумя удобными диванами с прекрасным видом. Полностью оборудованная кухня также предлагает обеденную зону и большое хранилище, скрытое за дверью кухни. Собственный кинозал с диапроектором и звуковой системой. <br>Идеальный комфорт для 8 человек с 4 большими спальнями с ванными комнатами и гардеробной. Главная спальня предлагает захватывающий вид на море с большой террасой и ванной с видом на море, также имеет собственное хранилище и офисные помещения. <br>Вилла имеет 5-ю спальню на первом этаже, идеально подходящую для горничных с собственной ванной комнатой. <br>Здесь есть одна очень просторная прачечная и кладовая, а также открытая мини-кухня, идеально подходящая для вечеринок в саду! <br>Вилла расположена в охраняемой роскошной резиденции в районе Банг Као. Всего в 5 минутах от пляжа и типичного рыбацкого порта Тонг Крут, в 10 минутах езды от пляжа Ламай и 20 минутах езды до центра Чавенг. <hr>Стоимость: <br>Высокий сезон (декабрь-март, июль, август): <br>Стоимость в сутки: от 25000 бат. <br>Низкий сезон (апрель-июнь, сентябрь-ноябрь): <br>Стоимость в сутки: от 18000 бат. <br>Дополнительно оплачиваются: <br>Электричество - 7 бат/кВт. <br>Вода - 30 бат/м3. <br>Включены в стоимость: WiFi, трансфер с пирса/аэропорта, обслуживание бассейна, уборка со сменой белья и полотенец. <br>Депозит для бронирования/сохранный депозит - 15000 бат или 500$.",
+        "EN" : "The villa offers a large plot of land of 980 sq.m with a tropical garden. Has one large covered parking and automatic gates. <br>An Asian style wooden door offers stunning sea views and a private infinity pool. The terrace accommodates a large dining table for 8 with a seating area and barbecue area. Large living room with two comfortable sofas with stunning views. The fully equipped kitchen also offers a dining area and large storage hidden behind the kitchen door. Own cinema with overhead projector and sound system. <br>Perfect comfort for 8 people with 4 large bedrooms with en suite bathrooms and dressing room. The master bedroom offers spectacular sea views with a large terrace and bathroom with sea views, and also has its own storage and office space. <br>The villa has a 5th bedroom on the ground floor, ideal for maids with its own bathroom. <br>There is one very spacious laundry and pantry room, as well as an outdoor kitchenette, perfect for garden parties! <br>The villa is located in a gated luxury residence in Bang Khao area. Just 5 minutes from the beach and the typical fishing port of Thong Krut, 10 minutes from Lamai Beach and 20 minutes from Chaweng Center. <hr>Price: <br>High season (December-March, July, August): <br>Price per day: from 25,000 baht. <br>Low season (April-June, September-November): <br>Price per day: from 18,000 baht. <br>Additionally paid: <br>Electricity - 7 baht / unit. <br>Water - 30 baht / unit. <br>Included in the price: WiFi, transfer from the pier / airport, pool service, cleaning with a change of linen and towels. <br>Deposit for booking / safe deposit - 15,000 baht or 500$. "
+    },
+    "dayPrice" : 18000.0,
+    "sleepingRoomCount" : 4,
+    "washRoomCount" : 4,
+    "distanceToSea" : 2000.0,
+    "type" : "villa",
+    "beach" : "bangKao",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : true,
+        "dishWasher" : true,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : true,
+        "grill" : true,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : true,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

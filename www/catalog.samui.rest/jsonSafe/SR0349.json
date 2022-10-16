@@ -1,0 +1,309 @@
+{
+	"_id" : "SR0349",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Холл:",
+                "EN" : "Hall:"
+            },
+            "filename" : "hll_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Холл:",
+                "EN" : "Hall:"
+            },
+            "filename" : "hll_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Холл:",
+                "EN" : "Hall:"
+            },
+            "filename" : "hll_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Холл:",
+                "EN" : "Hall:"
+            },
+            "filename" : "hll_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Двуспальные двухуровневые апартаменты в закрытом комплексе с общим бассейном в 350 м от пляжа Чавенг Ной.",
+        "EN" : "2BR 2 flors apartment in closed area with a shared swimming pool at 350 m to Chaweng Noi Beach"
+    },
+    "description" : {
+        "RU" : "Территория ухоженная, вокруг бассейна установлены лежаки и зонтики от солнца. Перед комплексом имеется небольшая парковка. В апартаментах кухонная зона объединена с гостиной. В гостиной имеется диван, телевизор, потолочный вентилятор, кондиционер и гостевой туалет. На кухне небольшая обеденная зона в виде барной стойки, холодильник, плита, термопот, микроволновая печь, тостер, а также имеется вся необходимая посуда. С кухни есть выход на небольшой задний двор. Под лестницей расположен сейф и мобильная сушилка. Спальни расположены на втором этаже. В первой спальне - двуспальная кровать (постельное белье  полотенца предоставляются), кондиционер, туалетный столик, шкаф для одежды. Вторая спальня с двумя односпальными кроватями, кондиционером, прикроватными тумбочками и большим шкафом для одежды. Между спальнями размещен санузел с душем. На окнах установлены москитные сетки. <br><br><br>Стоимость: <br>1 Июля - 31 Августа - 2800 бат/ночь, <br>1 Сентября - 14 Декабря - 2400 бат/ночь, <br>15 Декабря - 28/29 Февраля - 3100 бат/ночь, <br>1 Марта - 30 Июня - 2400 бат/ночь. <br>Скидки за проживание: 7 - 14 ночей: 7%, 15 - 21 ночи: 10%, 22 - 30 ночи: 15%. <br>Стоимость проживания свыше месяца необходимо запрашивать дополнительно. <br><br>Вода, WiFi включены в стоимость. <br>Дополнительно оплачиваются: электричество 7,5 бат/кВт (средний расход 6-8 кВт/сутки), уборка при выселении - 500 бат. Депозит для бронирования - 50% от суммы. Сохранный депозит: 3000 бат при проживании до 3 недель и 4000 бат при проживание свыше 3 недель.",
+        "EN" : "The area is well maintained, around the pool there are sun beds. There is a small car park in front of the property. The apartment has a kitchen area combined with a living room. The living room has a sofa, TV, ceiling fan, air conditioning and a guest toilet. The kitchen has a small dining area in the form of a bar, refrigerator, stove, thermopot, microwave, toaster, all the necessary utensils. The kitchen has access to a small backyard. Under the stairs there is a safebox. The bedrooms are located on the second floor. The first bedroom has a double bed (bed linen towels are provided), air conditioning, dressing table, wardrobe. The second bedroom has two single beds, air conditioning, bedside tables and a large wardrobe. Between the bedrooms there is a bathroom with shower. Windows are fitted with mosquito nets. <br><br><br>Cost: <br>July 1 - August 31 - 2800 baht/night, <br>September 1 - December 14 - 2400 baht/night, <br>December 15 - February 28/29 - 3100 baht/night, <br>March 1 - June 30 - 2400 baht/night. <br>Discounts for accommodation: 7 - 14 nights: 7%, 15 - 21 nights: 10%, 22 - 30 nights: 15%. <br>the Cost of accommodation over a month must be requested separately. <br><br>Water, WiFi included. <br>Extra paid: electricity by 7.5 baht/kWh, check-out cleaning is 500 baht. Deposit for booking - 50% of the amount. Damage Deposit: 3000 baht for stays up to 3 weeks and 4000 baht for stays over 3 weeks."
+    },
+    "dayPrice" : NumberInt(2400),
+    "monthPrice" : NumberInt(61200),
+    "sleepingRoomCount" : 2,
+    "washRoomCount" : 1.5,
+    "distanceToSea" : NumberInt(350),
+    "type" : "apartments",
+    "beach" : "chawengNoi",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "https://youtu.be/wY4gAKeomzQ",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

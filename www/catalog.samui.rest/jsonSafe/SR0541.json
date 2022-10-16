@@ -1,0 +1,189 @@
+{
+	"_id" : "SR0541",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Односпальный дом в 250 м от пляжа Липа Ной.",
+        "EN" : "One bedroom house 250 m from the beach of Lipa Noi."
+    },
+    "description" : {
+        "RU" : "Дом в пешей доступности от пляжа. На кухне есть все необходимое: микроволновая печь, холодильник, газовая плита, чайник, посуда. На заднем дворе установлена стиральная машина. Спальня с кондиционером и выходом на балкон. Постельное белье предоставляется, полотенец нет, на окнах установлены москитные сетки. <br><br>Стоимость: 18000 бат/месяц - высокий сезон, 16000 бат/месяц - низкий сезон. <br>Интернет, вода включены в стоимость. <br>Дополнительно оплачивается электричество - 7 бат/кВт. ",
+        "EN" : "The house is within walking distance from the beach. The kitchen has everything you need: microwave, refrigerator, gas stove, kettle, dishes. There is a washing machine in the backyard. Bedroom with air conditioning and access to the balcony. Bed linen is provided, no towels, mosquito nets on the Windows. <br><br>Price: 18000 baht/month - high season, 16000 baht/month - low season. <br>Internet, water included. <br>Additional charge for electricity - 7 baht/kW."
+    },
+    "monthPrice" : NumberInt(16000),
+    "sleepingRoomCount" : 1,
+    "washRoomCount" : 1,
+    "distanceToSea" : NumberInt(250),
+    "type" : "house",
+    "beach" : "lipaNoi",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : true,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "babyCot" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : false,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : false,
+        "toaster" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "https://youtu.be/-DUa4dCPK1o",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

@@ -1,0 +1,567 @@
+{
+	"_id" : "SR0744",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Пятая спальня:",
+                "EN" : "Fifth bedroom:"
+            },
+            "filename" : "br5_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Пятая спальня:",
+                "EN" : "Fifth bedroom:"
+            },
+            "filename" : "br5_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Пятая спальня:",
+                "EN" : "Fifth bedroom:"
+            },
+            "filename" : "br5_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Пятая спальня:",
+                "EN" : "Fifth bedroom:"
+            },
+            "filename" : "br5_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Пятая спальня:",
+                "EN" : "Fifth bedroom:"
+            },
+            "filename" : "br5_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Пятая спальня:",
+                "EN" : "Fifth bedroom:"
+            },
+            "filename" : "br5_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Шестая спальня:",
+                "EN" : "Sixth bedroom:"
+            },
+            "filename" : "br6_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Шестая спальня:",
+                "EN" : "Sixth bedroom:"
+            },
+            "filename" : "br6_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Шестая спальня:",
+                "EN" : "Sixth bedroom:"
+            },
+            "filename" : "br6_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Шестая спальня:",
+                "EN" : "Sixth bedroom:"
+            },
+            "filename" : "br6_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Шестая спальня:",
+                "EN" : "Sixth bedroom:"
+            },
+            "filename" : "br6_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_8.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_9.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_10.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_11.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_12.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_13.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_14.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_15.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_16.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_17.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_18.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_19.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_20.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_21.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_22.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_23.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_24.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_25.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_26.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_27.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_28.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_29.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_30.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_31.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_32.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_33.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_34.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_35.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_36.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_37.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_38.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_39.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_40.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_41.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_42.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Роскошная шестиспальная вилла в районе Бопут, 950 м от рыбацкой деревни и пляжа.",
+        "EN" : "Luxury six bedroom Villa in Bophut, 950 m from the Fisherman's village and the beach."
+    },
+    "description" : {
+        "RU" : "6 спален, 14 кроватей, 6 ванных комнат+душ у бассейна, бассейн с джакузи, огромная открытая кухня со столовой, большой сад на приватной территории, вместимость - 18 человек. <br>Все спальни оснащены кондиционером, феном, телевизором, сейфом, туалетными принадлежностями и имеют панорамное окно с видом на сад. <br><br>В стоимость включено: Завтрак, работа персонала (официанты, повар, уборщики) с 7:30 до 16:30, ежедневная уборка, смена постельного белья и полотенец каждые три дня, напитки, бильярд, джакузи, домашний кинотеатр, акустическая система на всей территории виллы, бассейн 80 кв.м, интернет, вода. <br>Дополнительно оплачивается: электричество - 5 бат/кВт, персонал с 18:00 до 23:00 - 1500 бат/вечер + продукты. Также за дополнительную оплату можно организовать обед, ужин, массаж, няню, уроки тайской кухни, йогу.  Депозит бронирования - 50% от стоимости аренды, остальные 50% не позже чем за месяц до заезда. Сохранный депозит - 50000 бат. <br><br>Стоимость: <br>Май, Июнь, Октябрь, Ноябрь - 20000 бат/сутки (минимум 5 дней), <br>Апрель, Сентябрь, 1-20 Декабря - 25000 бат/сутки (минимум 5 дней),  <br>с 5 Января по 31 Марта, Июль, Август - 30000 бат/сутки (минимум 7 дней), <br>с 20 Декабря по 5 Января - 40000 бат/сутки (минимум 7 дней). ",
+        "EN" : "6 bedrooms, 14 beds, 6 bathrooms+shower by the pool, swimming pool with Jacuzzi, huge open kitchen with dining area, large garden in a private area, capacity-18 people. < br>all bedrooms are equipped with air conditioning, Hairdryer, TV, safe, toiletries and have a panoramic window overlooking the garden. <br><br>the price includes: Breakfast, staff work (waiters, cook, cleaners) from 7: 30 to 16: 30, daily cleaning, change of bed linen and towels every three days, drinks, Billiards, Jacuzzi, home theater, sound system throughout the Villa, swimming pool 80 sq. m, Internet, water. < br>Extra charge: electricity - 5 baht/kW, staff from 18:00 to 23:00 - 1500 baht/evening + products. Lunch, dinner, massage, Babysitting, Thai cuisine lessons, yoga can also be arranged for an additional fee.  Reservation Deposit-50% of the rental price, the remaining 50% no later than a month before arrival. Safe Deposit - 50,000 baht. <br><br>Price: <br>May, June, October, November - 20,000 baht/day (minimum 5 days), <br>April, September, December 1-20 - 25,000 baht/day (minimum 5 days), <br>from January 5 to March 31, July, August - 30,000 baht/day (minimum 7 days), <br>from December 20 to January 5 - 40,000 baht/day (minimum 7 days)."
+    },
+    "dayPrice" : NumberInt(20000),
+    "sleepingRoomCount" : 6,
+    "washRoomCount" : 6,
+    "distanceToSea" : NumberInt(950),
+    "type" : "villa",
+    "beach" : "bophut",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : true,
+        "dishWasher" : true,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : true,
+        "grill" : true,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : true,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "https://youtu.be/3wZIA8g8fU8",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

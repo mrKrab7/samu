@@ -1,0 +1,126 @@
+{
+	"_id" : "SR0839",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_2.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Новые односпальные домики с кухней у озера Чавенг.",
+        "EN" : "1 BR house with a kitchennete near Chaweng lake"
+    },
+    "description" : {
+        "RU" : "Небольшие уютные домики расположены в новом, тихом и озелененом резорте. Отлично подойдут для 2 отдыхающих. <br><br>До пляжа - Чавенг, 1,2 км.  <br><br>Дом разделен на 2 части: кухонная зона и спальня. На кухне есть плита, холодильник, посуда и необходимые приборы. Постельное белье предоставляется, полотенец, сейфа, нет. На окнах установлены москитные сетки. <br><br>Стоимость: 13000 бат/месяц. <br>Интернет включен в стоимость. <br>Дополнительно оплачиваются: <br>электричество - 6,5 бат/кВт <br>вода 150 бат с человека в месяц. <br>Сохранный депозит - 13000 бат или эквивалент в долларах. <br>Депозит бронирования - 100%.",
+        "EN" : "Small cozy houses are located in a new, quiet and landscaped resort. Perfect for 2 vacationers. Chaweng beach is 1.2 km away. the House is divided into 2 parts: kitchen area and bedroom. The kitchen is equipped with a stove, refrigerator, utensils and necessary appliances. Bed linen is provided, towels and safe isn't povided. The Windows are fitted with mosquito nets. <br><br>Price: 13000 baht/month. <br>Internet is included. <br>Additional charges: <br>Electricity - 6.5 baht/kW <br>Water 150 baht per person per month. <br>Damage Deposit - 13000 baht or equivalent in dollars. <br>Booking Deposit is 100%."
+    },
+    "monthPrice" : NumberInt(13000),
+    "sleepingRoomCount" : 1,
+    "washRoomCount" : 1,
+    "distanceToSea" : NumberInt(1200),
+    "type" : "house",
+    "beach" : "chaweng",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : false,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : false,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "https://youtu.be/iEH18eIDThI",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

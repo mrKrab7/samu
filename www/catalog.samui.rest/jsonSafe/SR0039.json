@@ -1,0 +1,161 @@
+{
+	"_id" : "SR0039",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Студия Бопут",
+        "RU" : "Студия Бопут"
+    },
+    "briefly" : {
+        "EN" : "Свежие апартаменты район Бопут с общем большим чистым бассейном!",
+        "RU" : "Свежие апартаменты район Бопут с общем большим чистым бассейном!"
+    },
+    "description" : {
+        "EN" : "Всего 12 000 бат/месяц! Хороший ремонт, современная мебель, WiFi. Апартаменты разделены на 3 зоны: спальня, кухня, гостиная. Ну кухне нет плиты, но есть микроволновая печь и чайник. От самой красивой пешеходной улицы Самуи Fisherman’s villages  -  800 м. До пляжа Бо Пут - 1 км. Единственный минус - расположение недалеко от кольцевой дороги. Отдельно оплачиваются коммунальные услуги: электричество: 7 бат/кВт, вода: 1 человек - 300 бат/месяц, 2 человека - 500 бат/месяц, сохранный депозит - 5000 бат при месячном проживании, 10 000 бат при проживание от 3-х месяцев.",
+        "RU" : "Всего 12 000 бат/месяц! Хороший ремонт, современная мебель, WiFi. Апартаменты разделены на 3 зоны: спальня, кухня, гостиная. Ну кухне нет плиты, но есть микроволновая печь и чайник. От самой красивой пешеходной улицы Самуи Fisherman’s villages  -  800 м. До пляжа Бо Пут - 1 км. Единственный минус - расположение недалеко от кольцевой дороги. Отдельно оплачиваются коммунальные услуги: электричество: 7 бат/кВт, вода: 1 человек - 300 бат/месяц, 2 человека - 500 бат/месяц, сохранный депозит - 5000 бат при месячном проживании, 10 000 бат при проживание от 3-х месяцев."
+    },
+    "type" : "studio",
+    "beach" : "bophut",
+    "monthPrice" : 12000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : false,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : false,
+        "refrigerator" : true,
+        "kitchenWare" : false,
+        "cleaning" : false,
+        "tableWare" : false,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 0,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 800.0,
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

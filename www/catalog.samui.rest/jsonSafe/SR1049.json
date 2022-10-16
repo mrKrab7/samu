@@ -1,0 +1,280 @@
+{
+	"_id" : "SR1049",
+    "special" : true,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Пятая спальня:",
+                "EN" : "Fifth bedroom:"
+            },
+            "filename" : "br5_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Пятая спальня:",
+                "EN" : "Fifth bedroom:"
+            },
+            "filename" : "br5_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Фантастические виды на залив Банг Рак и Большого Будду лёжа в шезлонге у пейзажного бассейна.",
+        "EN" : "Fantastic views of Bang Rak Bay and Big Buddha lying on a sun lounger by the infinity pool."
+    },
+    "description" : {
+        "RU" : "Эта роскошная вилла с 4 спальнями с двуспальными кроватями и 1 спальней с двумя односпальными кроватями предлагает вам: полностью оборудованную кухню, гостиную открытой планировки с раздвижными дверями на террасу с видом на море, обеденную зону, вмещающую до 10 персон. За дверью кухни вы найдете стиральную машину и газовое барбекю. <br>Великолепный главный люкс с двуспальной кроватью и ванной комнатой с раковинами для него и для нее, двойным душем и ванной-джакузи. Есть еще две спальни с двуспальными кроватями и собственными ванными комнатами, одна с прекрасным видом на море, другая с собственным затененным балконом с видом на сад. Четвертая и пятая спальни расположены у бассейна через частную пристройку, оснащенные общей ванной комнатой с душем. <br>На вилле есть собственный пейзажный бассейн с солнечной террасой с видом на залив Бан Рак. <br>Вилла расположена между Fisherman's Village и оживленной ночной жизнью Банг Рак в эксклюзивном жилом комплексе с прямым доступом к частному пляжу ниже по отдельным ступенькам. В 10 минутах от всех основных магазинов, супермаркетов. <hr>Стоимость: <br>Высокий сезон (декабрь-март, июль, август): <br>Стоимость в сутки: от 12600 бат. <br>Низкий сезон (апрель-июнь, сентябрь-ноябрь): <br>Стоимость в сутки: от 13400 бат. <br>Минимальное количество ночей для бронирования: 3 <br>Дополнительно оплачиваются: Электричество, вода. <br>Включены в стоимость: WiFi, трансфер с пирса/аэропорта, обслуживание бассейна, уборка со сменой белья и полотенец. <br>Депозит для бронирования/сохранный депозит - 15000 бат или 500$.",
+        "EN" : "This luxury villa with 4 double bedrooms and 1 twin bedroom offers you: a fully equipped kitchen, an open plan living room with sliding doors to a terrace overlooking the sea, a dining area that can accommodate up to 10 people. Outside the kitchen door you will find a washing machine and a gas barbecue. <br>Spectacular master suite with double bed and en suite bathroom with his and her sinks, double showers and whirlpool bathtub. There are two more double bedrooms with en suite bathrooms, one with stunning sea views and the other with a private shaded balcony overlooking the garden. The fourth and fifth bedrooms are located by the pool through a private annex, with a shared bathroom with shower. <br>The villa has a private infinity pool with sun terrace overlooking Ban Rak Bay. <br>The villa is located between the Fisherman's Village and the vibrant nightlife of Bang Rak in an exclusive residential complex with direct access to the private beach below by separate steps. 10 minutes from all major shops, supermarkets. <hr>Price: <br>High season (December-March, July, August): <br>Price per day: from 12,600 baht. <br>Low season (April-June, September-November): <br>Price per day: from 13,400 baht. <br>Minimum number of nights to book: 3 <br>Additionally paid: Electricity, water. <br>Included in the price: WiFi, transfer from the pier / airport, pool maintenance, cleaning with change of linen and towels. <br>Deposit for booking / safe deposit - 15,000 baht or 500$."
+    },
+    "dayPrice" : 13400.0,
+    "sleepingRoomCount" : 5,
+    "washRoomCount" : 5,
+    "distanceToSea" : 100.0,
+    "type" : "villa",
+    "beach" : "bangRak",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : true,
+        "dishWasher" : true,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : true,
+        "grill" : true,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : true,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

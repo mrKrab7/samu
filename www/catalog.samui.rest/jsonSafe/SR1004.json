@@ -1,0 +1,204 @@
+{
+	"_id" : "SR1004",
+    "special" : true,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Невероятно красивая вилла для семейного отдыха с прекрасным видом на горы в районе Ламай",
+        "EN" : "Incredibly beautiful family villa with stunning mountain views in Lamai"
+    },
+    "description" : {
+        "RU" : "Вилла предлагает три спальни с ванными комнатами и гардеробными. Очень большая кухня, полностью оборудованная стиральной и посудомоечной машинами, уютная гостиная со смарт-телевизором, открытая терраса с достаточной тенью, а также беседка Sala для комфортного отдыха или встреч с друзьями. Вилла предлагает очень красивый вид на горы вместе с частным садом и бассейном. <br>Вилла расположенна в 5 минутах езды от супермаркетов, торговых центров, ресторанов и пляжа Ламай. <hr>Стоимость: <br>Высокий сезон (декабрь-март, июль, август): <br>Стоимость в сутки: 5000 бат. <br>Стоимость в месяц: 105000 бат. <br>Низкий сезон (апрель-июнь, сентябрь-ноябрь): <br>Стоимость в сутки: 3500 бат. <br>Стоимость в месяц: 75000 бат. <br>Дополнительно оплачиваются: <br>Электричество - 6 бат/кВт. <br>Вода - 500 бат в месяц. <br>Включены в стоимость: WiFi, трансфер с пирса/аэропорта, обслуживание бассейна, уборка 1 раз в неделю со сменой белья и полотенец. <br>Депозит для бронирования/сохранный депозит - 15000 бат.",
+        "EN" : "The villa offers three bedrooms with bathrooms and dressing rooms. A very large kitchen, fully equipped with a washing machine and dishwasher, a cozy living room with a smart TV, an outdoor terrace with sufficient shade, and a Sala gazebo for a comfortable stay or meeting with friends. The villa offers very beautiful mountain views along with a private garden and swimming pool. <br>The villa is located a 5-minute drive from supermarkets, shopping malls, restaurants and Lamai Beach. <hr>Price: <br>High season (December-March, July, August): <br>Price per day: 5000 baht. <br>Cost per month: 105,000 baht. <br>Low season (April-June, September-November): <br>Price per day: 3500 baht. <br>Cost per month: 75,000 baht. <br>Additionally paid: <br>Electricity - 6 baht / kW. <br>Water - 500 baht per month. <br>Included in the price: WiFi, transfer from the pier / airport, pool service, cleaning once a week with a change of linen and towels. <br>Deposit for booking / safe deposit - 15,000 baht. "
+    },
+    "dayPrice" : 3500.0,
+    "monthPrice" : 75000.0,
+    "sleepingRoomCount" : 3,
+    "washRoomCount" : 3,
+    "distanceToSea" : 2300.0,
+    "type" : "villa",
+    "beach" : "lamai",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : true,
+        "dishWasher" : true,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : true,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

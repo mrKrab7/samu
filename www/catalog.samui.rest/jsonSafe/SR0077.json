@@ -1,0 +1,140 @@
+{
+	"_id" : "SR0077",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Ламай - 1 спальня",
+        "RU" : "Ламай - 1 спальня"
+    },
+    "briefly" : {
+        "EN" : "Односпальный дом в резорте в районе Ламай.",
+        "RU" : "Односпальный дом в резорте в районе Ламай."
+    },
+    "description" : {
+        "EN" : "Гостиная, спальня и кухня разделены. В зоне гостинной диван и большой телевизор. На кухне есть все необходимое: холодильник, печь, термопот, посуда. В спальне большая двуспальная кровать, шкаф, туалетный столик и кондиционер. Санузел с душем. Постельное белье предоставляется, полотенец нет. Есть большая терраса со столом и стульями. Стоимость: 15 000 бат/мес. Wi-Fi включен в стоимость. Дополнительно оплачиваются: вода - 200 бат/мес/чел, электричество - 5 бат/кВт. Также есть 2-х спальные дома, все тоже самое по обстановке, только +1 спальня. Стоимость 2-хспального дома: 20000 бат/мес. ",
+        "RU" : "Гостиная, спальня и кухня разделены. В зоне гостинной диван и большой телевизор. На кухне есть все необходимое: холодильник, печь, термопот, посуда. В спальне большая двуспальная кровать, шкаф, туалетный столик и кондиционер. Санузел с душем. Постельное белье предоставляется, полотенец нет. Есть большая терраса со столом и стульями. Стоимость: 15 000 бат/мес. Wi-Fi включен в стоимость. Дополнительно оплачиваются: вода - 200 бат/мес/чел, электричество - 5 бат/кВт. Также есть 2-х спальные дома, все тоже самое по обстановке, только +1 спальня. Стоимость 2-хспального дома: 20000 бат/мес. "
+    },
+    "type" : "house",
+    "beach" : "lamai",
+    "monthPrice" : 15000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : false,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : false,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 1,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 2100.0,
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

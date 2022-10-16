@@ -1,0 +1,106 @@
+{
+	"_id" : "SR0021",
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Гостиная:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Спальня:",
+                "EN" : "Спальня:"
+            },
+            "filename" : "br1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Территория:"
+            },
+            "filename" : "tr3.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "2-спальный дом Чонгмон",
+        "EN" : "2-спальный дом Чонгмон"
+    },
+    "briefly" : {
+        "RU" : "Прекрасное тихое место в пешей доступности от одного из красивейших пляжей самуи - Чонг Мон.",
+        "EN" : "Прекрасное тихое место в пешей доступности от одного из красивейших пляжей самуи - Чонг Мон."
+    },
+    "description" : {
+        "RU" : "2 спальная вилла с гостинной и кухонной зоной общей площадью 100 м2 идеально подойдет для размещения 4 человек. 2 сан узла с душем, горячая вода. Имеется вся необходимая мебель, кровати king size, кондиционер, TV, сейф, холодильник, микроволновая печь, чанйик, посуда на 4 человек. На терассе имеется стол и 4 стула. Вода, электричество и WiFi уже включены в стоимость. Для посуточного и недельного размещений уборка производится каждый день, при месечном размещении - раз в неделю. При посуточном и недельном размещении завтраки включены.  Стоимость высокий/низкий сезоны: в день 7500/6500 бат/сутки, 45000/39000 бат/неделя, 75000/70000 бат/месяц.",
+        "EN" : "2 спальная вилла с гостинной и кухонной зоной общей площадью 100 м2 идеально подойдет для размещения 4 человек. 2 сан узла с душем, горячая вода. Имеется вся необходимая мебель, кровати king size, кондиционер, TV, сейф, холодильник, микроволновая печь, чанйик, посуда на 4 человек. На терассе имеется стол и 4 стула. Вода, электричество и WiFi уже включены в стоимость. Для посуточного и недельного размещений уборка производится каждый день, при месечном размещении - раз в неделю. При посуточном и недельном размещении завтраки включены.  Стоимость высокий/низкий сезоны: в день 7500/6500 бат/сутки, 45000/39000 бат/неделя, 75000/70000 бат/месяц."
+    },
+    "type" : "house",
+    "beach" : "choengMon",
+    "dayPrice" : 6500.0,
+    "monthPrice" : 70000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 2,
+    "special" : false,
+    "washRoomCount" : 2,
+    "distanceToSea" : 650.0,
+    "videoLink" : "https://youtu.be/AAeK-KZQWjc",
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

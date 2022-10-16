@@ -1,0 +1,210 @@
+{
+	"_id" : "SR0705",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальня:",
+                "EN" : "Bedroom:"
+            },
+            "filename" : "br_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Апартаменты-студия с общим бассейном в 750 м от пляжа Чавенг.",
+        "EN" : "Studio apartment with shared pool 750 m from Chaweng beach."
+    },
+    "description" : {
+        "RU" : "Новая застройка с  хорошим европейским ремонтом. Кухня отделена от спальни. На кухне есть холодильник, керамическая плита, вытяжка, чайник, тостер и немного посуды. В спальне большая двуспальная кровать, шкаф для одежды с сейфом, кондиционер, диван и телевизор. Диван раскладывается и может использоваться, как дополнительное спальное место. Есть выход на небольшую террасу. Санузел с душем и горячей водой. <br><br>Стоимость: 1500 бат/сутки низкий сезон, 2000 бат/сутки высокий сезон, 2500 бат/сутки пиковый сезон. <br>Интернет, вода, электричество, уборка и смена полотенец каждый день включено в стоимость.",
+        "EN" : "Brand new apartment with good European repair. The kitchen is separated from the bedroom. The kitchen has a fridge, ceramic hob, extractor hood, kettle, toaster and some utensils. The bedroom has a large double bed, wardrobe with safe, air conditioning, sofa and TV. The sofa can be used as an extra bed. There is access to a small terrace. Bathroom with shower and hot water. <br><br>Price: 1500 baht/day low season, 2000 baht/day high season, 2500 baht/day peak season. <br>Internet, water, electricity, cleaning and change of towels every day are included in the price."
+    },
+    "dayPrice" : NumberInt(1500),
+    "sleepingRoomCount" : 0,
+    "washRoomCount" : 1,
+    "distanceToSea" : NumberInt(750),
+    "type" : "apartments",
+    "beach" : "chaweng",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : false,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "https://youtu.be/DojIR3q54K0",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

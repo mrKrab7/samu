@@ -1,0 +1,196 @@
+{
+	"_id" : "SR0029",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Cпальня:",
+                "RU" : "Cпальня:"
+            },
+            "filename" : "br5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr4.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "1-спальный дом Мэнам",
+        "RU" : "1-спальный дом Мэнам"
+    },
+    "briefly" : {
+        "EN" : "Односпальный дом в резорте в районе Мэнам. Ухоженная территория.",
+        "RU" : "Односпальный дом в резорте в районе Мэнам. Ухоженная территория."
+    },
+    "description" : {
+        "EN" : "Дом без излишеств, однако очень достойное предложение за свои деньги. Есть зона гостиной, кухонная зона, на кухне есть газовая плита, термопот, базовая посуда, холодильник.  В спальне большая 2-х спальная кровать, большой шкаф, кондиционер, на окнах москитные сетки.Не далеко идет стройка и днем ее слышно. Стоимость: 9000 бат/мес. Депозит: 2000 бат. Свет: 10 бат/Квт Вода и Wi-Fi: включены в стоимость.",
+        "RU" : "Дом без излишеств, однако очень достойное предложение за свои деньги. Есть зона гостиной, кухонная зона, на кухне есть газовая плита, термопот, базовая посуда, холодильник.  В спальне большая 2-х спальная кровать, большой шкаф, кондиционер, на окнах москитные сетки.Не далеко идет стройка и днем ее слышно. Стоимость: 9000 бат/мес. Депозит: 2000 бат. Свет: 10 бат/Квт Вода и Wi-Fi: включены в стоимость."
+    },
+    "type" : "house",
+    "beach" : "maenam",
+    "monthPrice" : 9000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : false,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : false,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : false,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 1,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 2200.0,
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

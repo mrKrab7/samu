@@ -1,0 +1,137 @@
+{
+	"_id" : "SR0097",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr4.jpg"
+        }
+    ],
+    "briefly" : {
+        "EN" : "Студия в горах Чавенг Ной в резорте с общим бассейном и великолепным видом на море.",
+        "RU" : "Студия в горах Чавенг Ной в резорте с общим бассейном и великолепным видом на море."
+    },
+    "description" : {
+        "EN" : "Студия с большой двуспальной кроватью с кондиционером и телевизором. Кухни нет, но имеются холодильник, чайник, тостер. Санузел с душем. Терраса с видом на море.  Стоимость: 19000 бат/мес., от 1400 бат/сут. Дополнительно оплачиваютя: вода - 30 бат/100 л, Wi-Fi - 30 бат/день,  электричество - 7 бат/кВт, обслуживание тарритории - 2600 бат/мес, уборка - 500 бат (по желанию).",
+        "RU" : "Студия с большой двуспальной кроватью с кондиционером и телевизором. Кухни нет, но имеются холодильник, чайник, тостер. Санузел с душем. Терраса с видом на море.  Стоимость: 19000 бат/мес., от 1400 бат/сут. Дополнительно оплачиваютя: вода - 30 бат/100 л, Wi-Fi - 30 бат/день,  электричество - 7 бат/кВт, обслуживание тарритории - 2600 бат/мес, уборка - 500 бат (по желанию)."
+    },
+    "type" : "studio",
+    "beach" : "chawengNoi",
+    "dayPrice" : 1400.0,
+    "monthPrice" : 19000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : false,
+        "teaPot" : false,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : true,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : false,
+        "cleaning" : false,
+        "tableWare" : false,
+        "kitchen" : false,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 0,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 350.0,
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

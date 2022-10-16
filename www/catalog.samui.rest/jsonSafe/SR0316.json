@@ -1,0 +1,357 @@
+{
+	"_id" : "SR0316",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_8.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_8.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_9.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_10.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_3.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Новая и современная вилла с 3 спальнями в 250 метрах от одного из лучших пляжей Самуи – пляжа Бан Тай.",
+        "EN" : "The newest contemporary 3-bedroom at 250 m from BanTai beach!"
+    },
+    "description" : {
+        "RU" : "У виллы яркий и оригинальный стиль. Обстановка гостиной создает веселое настроение, располагающее к разговорам, играм и отличному времяпровождению в компании семьи и друзей. В то же время, яркие цвета спален передают солнечность тропического лета. <br>Каждая из просторных спален кондиционируется, оснащена плазменным телевизором, а также имеет прилегающую ванную комнату, удобную двуспальную кровать с качественным постельным бельём (по требованию предоставляются две односпальные кровати), а также письменным столом для тех, кто хочет немного поработать. Одна из спален дополнена балконом с видом на бассейн с удобными шезлонгами и столиком. <br>Когда вы войдете на виллу, то сразу же заметите ее уникальную особенность - отдельная полностью оборудованная всем необходимым для ваших кулинарных экспериментов кухня. Тут есть все необходимое, что может понадобиться во время отдыха - набор посуды и столовых пренадлежностей, электрическая плита, микроволновая печь, кофеварка, чайник, посудомоечная машина, вместительный холодильник для продкутов и холодильник для напитков. Рядом располагается элегантный кофейный столик. <br>Стеклянные двери гостинной выходят на террасу у бассейна, окруженную тропическим зеленым садом. Здесь установлен обеденный стол за которым с комфортом могут разместиться 6 персон. Напротив приватного бассейна со специальной солевой очисткой, расположен домашний кинотеатр с большим проэкторным экраном – кто-то может расположиться здесь за просмотром мультика или любимого сериала. <br>Для удобства гостей, на территории комплекса работает багги-сервис к пляжу и детская зона. <br>Гостеприимный персонал позаботиться о том, чтобы Ваш отдых был по-настоящему расслабляющим и незабываемым – они организуют для вас транспорт, который сможет отвести вас в супермаркет за покупками, или по близлежащим достопримечательностям. По необходимости, менеджер сможет организовать для вас автомобиль с водителем или комфортабельный микроавтобус на весь день, чтобы можно было посетить интересные места, храмы, и насладится восхитительным тропическим пейзажем острова Самуи. <br><br><br>Стоимость: <br>Низкий Сезон (01 Октября – 14 Декабря, 01 Мая - 30 Июня) - 350 $/ночь (минимум 2 ночи); <br>Высокий Сезон (11 Января – 30 Апреля, 01 Июля – 30 Сентября, 15 Декабря - 21 Декабря) - 495 $/ночь (минимум 2 ночи), <br>Пиковый Сезон (22 Декабря – 10 Января) - 750$/ночь (минимум 5 ночей). <br>Цены включают все налоги и сборы, уборку и замену полотенец 2 раза в неделю, смену белья 1 раз в неделю, пользование клаб-карами. Бесплатно предоставляются детские кроватки и стульчики. <br>Месячная стоимость - под запрос. При месячной аренде дополнительно оплачивается электричество - 8 бат/кВт. <br>Сохранный депозит - 500$. Депозит для бронирования 30% от общей суммы аренды, баланс оплачивается за 30 дней до заезда. <br>Возможна аренда меньшего количества спален с предоставлением скидки (не распространяется на пиковые даты).",
+        "EN" : "As you enter the villa, you will instantly notice its unique touch - a separate fully equipped kitchen across the pool from the main building. For those who enjoy cooking themselves will appreciate that the heat of various boiling pans and pots, the salivating aromas and the noise won’t disturb the cool air-conned atmosphere of a living room. But this touch of luxury doesn’t mean you will have to walk outside every time you fancied a snack as the main building also houses a kitchen, albeit a smaller - but no less convenient - version of it. <br>Poolside area which is also a lounge area has - first and foremost - the pool itself with non-chlorine filtered water. Everything you need to spend your leisure time is there: big sunbeds, a small green garden, cosy party cushions, a big table and a barbeque grill for those who enjoy their meals under the sky. There is an open-air cinema with projector screen installed outdoors where you can watch movies from the dining room. <br>Sliding open tall plastic doors of the main building, you’re welcomed by the living room and a smaller yellow-themed kitchen. Cornered party couches and a flat screen TV, air-cons and guest bathroom will assure your inside time with friends is comfortable and convenient, and it’s up to you to make it fun! <br>Past the living room you enter the first bedroom, which has king-size or twin-beds up to your preferences, en-suite bathroom and a set of stylish light wooden furniture: wardrobe, and a nightstand. <br>Two other bedrooms are located on the second floor which is accessed by the staircase with safe rounded railing and non-slippery stickers on the steps - safety above all. All 3 bedrooms have the same furnishing and layout, so there really is no master bedroom, except for the one with terrace overlooking the swimming pool. The only difference besides the terrace is second floor bedrooms having high ceilings which feel incredibly open and bright. The villa can easily house 7+ people with options for extra beds. There is enough space and utility to accommodate everyone with comfort. <br>There are enough private rooms and corners for everyone to maintain the integrity of their personal space, big open dining and party areas have all the means to have fun and separate kitchen will make you feel special when you book a personal chef. Also if you’re traveling with a *big* group of people, you can settle in the neighboring villas which all have easy maintenance access to one another, should you require it. <br>But the villa itself is not all of it. It is located at a fully managed villa complex with reception desk, security, housemaid services, utility and a team of cheerful and resourceful managers who will help you tailor the experience to your own individual perfection - be it extra services like private chef or massage a driver or a rental car, or something simpler like an extra bed and special furniture or toys for small kids. There is also a children’s playground area in the complex. <br><br><br>DAILY RATES: <br>Low Season (01 May – 30 June, 01 Oct – 14 Dec) - 350$, <br> High Season (11 Jan – 30 Apr, 01 July – 30 Sep, 15 Dec - 21 Dec) - 495$, Peak Season (22 Dec – 10 Jan) - 750$. <br>Damage deposit - 500$. <br>Cleaning and towels change 2 times a week, linen change – 1 time a week. <br>Booking deposit: 30% (via Bank transfer or via PayPal) if more than 30 days or 100% if less than 30 days. Balance payment (70%): 30 days prior arrival."
+    },
+    "dayPrice" : 11100.0,
+    "sleepingRoomCount" : 3,
+    "washRoomCount" : 3.5,
+    "distanceToSea" : NumberInt(250),
+    "type" : "villa",
+    "beach" : "banTai",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : true,
+        "dishWasher" : true,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : true,
+        "grill" : true,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : true,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

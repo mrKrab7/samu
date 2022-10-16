@@ -1,0 +1,156 @@
+{
+	"_id" : "SR0036",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия:",
+                "RU" : "Студия:"
+            },
+            "filename" : "st9.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr3.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Студия Бопут",
+        "RU" : "Студия Бопут"
+    },
+    "briefly" : {
+        "EN" : "Студия с двумя односпальными кроватями в районе пляжа Бопут. Новый резорт, отличное качество ремонта, мебели и сантехники.",
+        "RU" : "Студия с двумя односпальными кроватями в районе пляжа Бопут. Новый резорт, отличное качество ремонта, мебели и сантехники."
+    },
+    "description" : {
+        "EN" : "Ухоженная территория, приветливый персонал. Нет кухни, имеется мини-холодильник, кондиционер, TV. На балконе есть столик и стулья. Стоимость 18 000 бат/месяц, по суточно: ваиант с 2 раздельными кроватями - 980 бат/ночь, вариант с 1 кроватью king-size  - 1200 бат/ночь. WiFi включен в стоимость. Дополнительно оплачиваются вода и электроэнергия по гос. тарифам.",
+        "RU" : "Ухоженная территория, приветливый персонал. Нет кухни, имеется мини-холодильник, кондиционер, TV. На балконе есть столик и стулья. Стоимость 18 000 бат/месяц, по суточно: ваиант с 2 раздельными кроватями - 980 бат/ночь, вариант с 1 кроватью king-size  - 1200 бат/ночь. WiFi включен в стоимость. Дополнительно оплачиваются вода и электроэнергия по гос. тарифам."
+    },
+    "type" : "studio",
+    "beach" : "bophut",
+    "dayPrice" : 980.0,
+    "monthPrice" : 18000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : false,
+        "teaPot" : false,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : false,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : false,
+        "terrace" : false,
+        "refrigerator" : true,
+        "kitchenWare" : false,
+        "cleaning" : false,
+        "tableWare" : false,
+        "kitchen" : false,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 0,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 900.0,
+    "videoLink" : "https://youtu.be/45V7G-8ksYY",
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

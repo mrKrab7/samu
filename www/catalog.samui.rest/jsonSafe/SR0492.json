@@ -1,0 +1,162 @@
+{
+	"_id" : "SR0492",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr-1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr-2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr-3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br-1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br-2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br-3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Первая спальня:",
+                "RU" : "Первая спальня:"
+            },
+            "filename" : "br-4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch-1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch-2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch-3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc-1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc-2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr-1.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Описание:",
+        "RU" : "Описание:"
+    },
+    "briefly" : {
+        "EN" : "Односпальный дом в районе Мэнам",
+        "RU" : "Односпальный дом в районе Мэнам"
+    },
+    "description" : {
+        "EN" : "<ul>Новый односпальный дом расположен в тихом уединенном месте. Гостиная зона совмещена с кухней. В гостиной телевизор с плоским экраном, диван и небольшой обеденный стол со стульями. В кухне есть все необходимое: микроволновая печь, холодильник, чайник, плита, посуда. В спальне шкаф для одежды, большая кровать и кондиционер. Просторный санузел с унитазом раковиной и душем. Интернет включен в стоимость.<hr></p><ul><li> Стоимость: 12000 бат/месяц высокий сезон, 10000 бат/месяц низкий сезон.</li><li>Дополнительно оплачиваются: вода 100 бат с человека, электричество 6 бат/кВт, уборка 500 бат.</li><li>Депозит бронирования - 5000 бат.</li></ul> ",
+        "RU" : "<ul>Новый односпальный дом расположен в тихом уединенном месте. Гостиная зона совмещена с кухней. В гостиной телевизор с плоским экраном, диван и небольшой обеденный стол со стульями. В кухне есть все необходимое: микроволновая печь, холодильник, чайник, плита, посуда. В спальне шкаф для одежды, большая кровать и кондиционер. Просторный санузел с унитазом раковиной и душем. Интернет включен в стоимость.<hr></p><ul><li> Стоимость: 12000 бат/месяц высокий сезон, 10000 бат/месяц низкий сезон.</li><li>Дополнительно оплачиваются: вода 100 бат с человека, электричество 6 бат/кВт, уборка 500 бат.</li><li>Депозит бронирования - 5000 бат.</li></ul> "
+    },
+    "type" : "house",
+    "beach" : "maenam",
+    "monthPrice" : 10000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : false,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : false,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : false,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : true
+    },
+    "sleepingRoomCount" : 1,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 2800.0,
+    "videoLink" : "https://youtu.be/93TtQaFU7-U",
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

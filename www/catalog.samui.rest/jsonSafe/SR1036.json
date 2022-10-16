@@ -1,0 +1,231 @@
+{
+	"_id" : "SR1036",
+    "special" : true,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Четвертая спальня:",
+                "EN" : "Fourth bedroom:"
+            },
+            "filename" : "br4_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Дополнительно:",
+                "EN" : "Additional:"
+            },
+            "filename" : "add_1.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Настоящий BEACHFRONT, частная роскошная вилла с 4 спальнями и видом на сверкающие воды Сиамского залива!",
+        "EN" : "A real BEACHFRONT, private luxury 4-bedroom villa overlooking the sparkling waters of the Gulf of Thailand!"
+    },
+    "description" : {
+        "RU" : "Вилла расположена в резиденции и всего в 10 метрах от берега и воды. Она занимает четыре отдельных павильона, расположенных в форме буквы «U», с видом на обширную террасу на открытом воздухе и пейзажный бассейн - все на уровне земли для удобства доступа и с прекрасными морскими панорамами. <br>Главный павильон состоит из гостиной, обеденной зоны и полностью оборудованной кухни в западном стиле, а также раздвижные двери во всю ширину на террасу у бассейна, откуда открывается потрясающий панорамный вид на сверкающий Сиамский залив! <br>Павильон №2 - спальня MASTER с кроватью размера «king-size», большой ванной (с дополнительной двухсторонней ванной) и проходным шкафом/гардеробной. Собственный балкон на открытом воздухе и кушетка, чтобы расслабиться и насладиться сказочными бесконечными видами. В задней части спальни находится открытая душевая на открытом воздухе. <br>В павильоне №3 есть еще две спальни с двуспальными кроватями, каждая с кроватями размера «queen-size». Оба имеют общий балкон-террасу с видом на пляж и залив. Одна из спален имеет собственную ванную комнату и небольшой сад за домом с дополнительным душем на открытом воздухе. В другой спальне есть собственная ванная комната с душевой кабиной. <br>Павильон №4 содержит четвертую просторную спальню с двумя кроватями, которые могут быть преобразованы в большую кровать размера «super king-size». Также есть большой письменный стол и собственная ванная комната. <br>У бассейна есть крытая Сала, в которой вы можете расслабиться, а вторую, более крупную, можно использовать для трапезы на открытом воздухе. <br>Между виллой и пляжем находится еще одна большая лужайка - идеально подходит для семейных игр или романтической свадьбы на пляже! <br>Дополнительные преимущества: доступ к тренажерному залу, багги, 2 дополнительных бассейна у пляжа, детский клуб, безопасность 24/7. <br>Идеально расположенный в тихом месте в 5 минутах езды от пляжа Чавенг. <hr>Стоимость: <br>Высокий сезон (декабрь-март, июль, август): <br>Стоимость в сутки: от 42300 бат. <br>Низкий сезон (апрель-июнь, сентябрь-ноябрь): <br>Стоимость в сутки: от 25400 бат. <br>Минимальное количество ночей для бронирования: 3 <br>Дополнительно оплачиваются: Электричество, вода. <br>Включены в стоимость: WiFi, трансфер с пирса/аэропорта, обслуживание бассейна, уборка со сменой белья и полотенец. <br>Депозит для бронирования/сохранный депозит - 30000 бат или 1000$.",
+        "EN" : "The villa is located in a residence and just 10 meters from the coast and water. It occupies four separate U-shaped pavilions overlooking an expansive outdoor terrace and infinity pool, all at ground level for easy access and stunning sea views. <br>The main pavilion consists of a living room, dining area and fully equipped western kitchen, as well as full-width sliding doors to the pool deck offering stunning panoramic views of the sparkling Gulf of Thailand! <br>Pavilion 2 - MASTER bedroom with king-size bed, large bathroom (with additional double-sided bathtub) and walk-through wardrobe / dressing room. Private outdoor balcony and daybed to relax and enjoy the fabulous endless views. At the back of the bedroom is an open-air shower room. <br>Pavilion 3 has two more double bedrooms, each with queen-size beds. Both share a shared balcony-terrace overlooking the beach and the bay. One of the bedrooms has its own bathroom and a small back garden with an additional outdoor shower. The other bedroom has a private bathroom with shower. <br>Pavilion 4 contains a fourth spacious bedroom with two beds that can be converted into a large super king-size bed. There is also a large work desk and a private bathroom. <br>There is an indoor Sala by the pool where you can relax, and the second, larger one, can be used for outdoor dining. <br>There is another large lawn between the villa and the beach - perfect for family games or a romantic beach wedding! <br>Additional benefits: access to gym, buggies, 2 additional pools by the beach, kids club, 24/7 security. <br>Ideally located in a quiet location 5 minutes drive from Chaweng Beach. <hr>Price: <br>High season (December-March, July, August): <br>Price per day: from 42,300 baht. <br>Low season (April-June, September-November): <br>Price per day: from 25,400 baht. <br>Minimum number of nights to book: 3 <br>Additionally paid: Electricity, water. <br>Included in the price: WiFi, transfer from the pier / airport, pool maintenance, cleaning with change of linen and towels. <br>Deposit for booking / safe deposit - 30,000 baht or 1000$."
+    },
+    "dayPrice" : 25400.0,
+    "sleepingRoomCount" : 4,
+    "washRoomCount" : 4,
+    "distanceToSea" : 0.0,
+    "type" : "villa",
+    "beach" : "choengMon",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : true,
+        "dishWasher" : false,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : true,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : true,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

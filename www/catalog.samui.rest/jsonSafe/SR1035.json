@@ -1,0 +1,196 @@
+{
+	"_id" : "SR1035",
+    "special" : true,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Санузел:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Санузел:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc2.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Комфортные односпальные апартаменты в 600 метрах от пляжа Ламай.",
+        "EN" : "Comfortable one-bedroom apartment 600 meters from Lamai Beach."
+    },
+    "description" : {
+        "RU" : "Эксклюзивная резиденция с охраняемой территорией, общим бассейном и камерой хранения багажа. Полностью оборудованная кухня: плита, холодильник, чайник, микроволновая печь, вытяжка, вся посуда и кухонные принадлежности, обеденная зона на террасе. В зоне гостиной - диван и ТВ. Санузел с душевой. В спальне двуспальная кровать и гардеробная. Все комнаты оборудованы кондиционерами. В некоторых номерах есть гидромассажная ванна или собственный бассейн. Возможно размещение в одно или двухспальных номерах. <br>Комплекс расположен на холмах Ламай, в 3 минутах езды от пляжа Ламай и в 15 минутах езды от пляжа Чавенг. <hr>Стоимость: <br>Высокий сезон (декабрь-март, июль, август): <br>Стоимость в сутки: от 3900 бат. <br>Низкий сезон (апрель-июнь, сентябрь-ноябрь): <br>Стоимость в сутки: от 2500 бат. <br>Минимальное количество ночей для бронирования: 7 <br>Дополнительно оплачиваются: Электричество, вода. <br>Включены в стоимость: WiFi, трансфер с пирса/аэропорта, обслуживание бассейна, уборка со сменой белья и полотенец. <br>Депозит для бронирования/сохранный депозит - 5000 бат.",
+        "EN" : "Exclusive residence with a secured area, communal pool and luggage storage. Fully equipped kitchen: stove, refrigerator, kettle, microwave oven, extractor hood, all utensils and kitchen utensils, dining area on the terrace. In the living area there is a sofa and TV. Bathroom with shower. The bedroom has a double bed and a dressing room. All rooms are air conditioned. Some rooms have a hot tub or private pool. Accommodation in one or two-bed rooms is possible. <br>The complex is located in Lamai Hills, a 3-minute drive from Lamai Beach and a 15-minute drive from Chaweng Beach. <hr>Price: <br>High season (December-March, July, August): <br>Price per day: from 3,900 baht. <br>Low season (April-June, September-November): <br>Price per day: from 2,500 baht. <br>Minimum number of nights to book: 7 <br>Additionally paid: Electricity, water. <br>Included in the price: WiFi, transfer from the pier / airport, pool maintenance, cleaning with change of linen and towels. <br>Deposit for booking / safe deposit - 5,000 baht."
+    },
+    "dayPrice" : 2500.0,
+    "sleepingRoomCount" : 1,
+    "washRoomCount" : 1,
+    "distanceToSea" : 600.0,
+    "type" : "apartments",
+    "beach" : "lamai",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : true,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

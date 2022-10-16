@@ -1,0 +1,308 @@
+{
+	"_id" : "SR0760",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая спальня:",
+                "EN" : "Master bedroom:"
+            },
+            "filename" : "br1_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая спальня:",
+                "EN" : "Second bedroom:"
+            },
+            "filename" : "br2_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Третья спальня:",
+                "EN" : "Third bedroom:"
+            },
+            "filename" : "br3_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Дополнительно:",
+                "EN" : "Additional:"
+            },
+            "filename" : "add_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Дополнительно:",
+                "EN" : "Additional:"
+            },
+            "filename" : "add_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Первая ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc1_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc2_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Вторая ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc2_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Трехспальные апартаменты с приватным бассейном в 60 м от пляжа Банг По.",
+        "EN" : "Three-bedroom apartment with private pool 60 m from Bang Po Beach."
+    },
+    "description" : {
+        "RU" : "Двухуровневые апартаменты с 3 спальнями элегантно оформленные и меблированные, чтобы предложить гостям комфорт на протяжении всего их пребывания. Апартаменты находятся всего в нескольких метрах от спокойного и уединенного пляжа Самуи - Банг По. Апартаменты имеют собственный отдельный вход и парковочное место. На верхней открытой террасе можно позагорать или полюбоваться потрясающим видом на море и пальмы. Гостиная и кухонная зоны открыты и расположены у бассейна. Кухня полностью укомплектована всеми необходимым, в том числе и посудомоечной машиной. В гостиной и каждой спальне установлены телевизоры. Спальни с кондиционерами и потолочными вентиляторами. В апартаментах 3 санузла: 2 с душем с горячей водой и один гостевой. <br><br> Стоимость: 4000 бат/сутки - низкий сезон, 5000 бат/сутки - высокий сезон. <br>Интернет, вода и ежедневная уборка (смена постельного белья каждые 4 дня) включены в стоимость. <br>Дополнительно оплачивается электричество - 10 бат/кВт. <br>Депозит бронирования - 50% от стоимости аренды. <br>Сохранный депозит - 5000 бат. ",
+        "EN" : "This split-level 3-bedroom apartment is elegantly decorated and furnished to offer guests comfort throughout their stay. The apartment is located just a few metres from the tranquil and secluded beach of Koh Samui - Bang Po. The apartment has its own private entrance and Parking space. The upper outdoor terrace is ideal for sunbathing or enjoying stunning views of the sea and palm trees. The living and kitchen areas are open and located by the pool. The kitchen is fully equipped, including a dishwasher. There is a TV in the living room and each bedroom. Bedrooms with air conditioning and ceiling fans. The apartment has 3 bathrooms: 2 with hot shower and one guest. <br><br> Price: 4000 baht/day - low season, 5000 baht/day - high season. <br>Internet, water and daily cleaning (change of bed linen every 4 days) are included. <br / >Additional charge for electricity is 10 THB/kW. <br>booking Deposit - 50% of the rental price. <br>Security Deposit - 5000 baht."
+    },
+    "dayPrice" : NumberInt(4000),
+    "sleepingRoomCount" : 3,
+    "washRoomCount" : 2.5,
+    "distanceToSea" : NumberInt(60),
+    "type" : "apartments",
+    "beach" : "bangPo",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : true,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : true,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : true,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "https://youtu.be/0yhBjes5zLw",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

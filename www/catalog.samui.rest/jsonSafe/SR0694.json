@@ -1,0 +1,252 @@
+{
+	"_id" : "SR0694",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Гостиная:",
+                "EN" : "Living room:"
+            },
+            "filename" : "lr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Кухня:",
+                "EN" : "Kitchen:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальни:",
+                "EN" : "Bedrooms:"
+            },
+            "filename" : "br_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальни:",
+                "EN" : "Bedrooms:"
+            },
+            "filename" : "br_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальни:",
+                "EN" : "Bedrooms:"
+            },
+            "filename" : "br_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальни:",
+                "EN" : "Bedrooms:"
+            },
+            "filename" : "br_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальни:",
+                "EN" : "Bedrooms:"
+            },
+            "filename" : "br_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Cпальни:",
+                "EN" : "Bedrooms:"
+            },
+            "filename" : "br_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Ванная комната:",
+                "EN" : "WC:"
+            },
+            "filename" : "wc_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_8.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_9.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_10.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_11.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_12.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Территория:",
+                "EN" : "Area:"
+            },
+            "filename" : "tr_13.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Трехспальная вилла с приватным бассейном в районе Бопут.",
+        "EN" : "Three bedroom Villa with private pool in Bophut area."
+    },
+    "description" : {
+        "RU" : "До пляжа Бопут 4,6 км, до пляжа Чавенг 3,5 км. На закрытой территорией есть небольшой детский уголок с горками. <br><br>Стоимость: <br>2800 бат/сутки-  май и июнь, <br>5000 бат/сутки - июль, <br>5200 бат/сутки - август, <br>3200 бат/сутки - сентябрь, <br>3000 бат/сутки - октябрь и ноябрь, <br>с 1 по 10 декабря - 3500 бат/сутки, <br>с 11 по 20 декабря - 4000 бат/сутки, <br>с 21 до 31 декабря - 6000 бат/сутки, <br>5500 бат/сутки - январь и февраль, <br>4500 бат/сутки - март, <br>4200 бат/сутки - апрель. <br>Интернет и вода включены в стоимость. <br>Дополнительно оплачивается : электричество - 7 бат/кВт, уборка - 3300 бат, уборка будет производится каждые 4 дня со сменой постельного белья и полотенец. <br>Сохранный депозит - 12000 бат/паспорт. <br>Депозит бронирования - 50% от стоимости.",
+        "EN" : "To Bophut beach 4.6 km, to Chaweng beach 3.5 km. In the closed territory there is a small children's area with slides. <br><br>Cost: <br>2800 baht/day - May and June, <br>5000 baht/day - July, <br>5200 baht/day - August, <br>3200 baht/day - September, <br>3000 baht/day - October and November, <br>from 1 to 10 December - 3500 baht/day, <br>from 11 to 20 December - 4000 baht/day, <br>from 21 to 31 December - 6000 baht/day, <br>5500 baht/day - January and February, <br>4500 baht/day - March, <br>4200 baht/day - April. <br>Internet and water included. <br>Extra charge : electricity - 7 baht/kW, cleaning - 3300 baht, cleaning will be done every 4 days with a change of bed linen and towels. <br>Security Deposit - 12000 baht or passport. <br>Booking Deposit - 50% of the cost."
+    },
+    "dayPrice" : NumberInt(2800),
+    "sleepingRoomCount" : 3,
+    "washRoomCount" : 2,
+    "distanceToSea" : NumberInt(3500),
+    "type" : "villa",
+    "beach" : "bophut",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : true,
+        "grill" : true,
+        "swimmingPool" : true,
+        "closedArea" : true,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : true,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : true
+    },
+    "videoLink" : "https://youtu.be/1H780MZCyr8",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

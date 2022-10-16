@@ -1,0 +1,168 @@
+{
+	"_id" : "SR1021",
+    "special" : true,
+    "archived" : true,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Deluxe Jacuzzi Suite:",
+                "EN" : "Deluxe Jacuzzi Suite:"
+            },
+            "filename" : "lr_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Deluxe Balcony Suite:",
+                "EN" : "Deluxe Balcony Suite:"
+            },
+            "filename" : "kch_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Plunge Pool Suite:",
+                "EN" : "Plunge Pool Suite:"
+            },
+            "filename" : "br1_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Hidro Pool Villa:",
+                "EN" : "Hidro Pool Villa:"
+            },
+            "filename" : "HydropoolVilla1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Hidro Pool Villa:",
+                "EN" : "Hidro Pool Villa:"
+            },
+            "filename" : "HydropoolVilla2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Hidro Pool Villa:",
+                "EN" : "Hidro Pool Villa:"
+            },
+            "filename" : "HydropoolVilla3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Hidro Pool Villa:",
+                "EN" : "Hidro Pool Villa:"
+            },
+            "filename" : "HydropoolVilla4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Hidro Pool Villa:",
+                "EN" : "Hidro Pool Villa:"
+            },
+            "filename" : "HydropoolVilla5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Grand Pool Villa:",
+                "EN" : "Grand Pool Villa:"
+            },
+            "filename" : "GrandPoolVilla1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Grand Pool Villa:",
+                "EN" : "Grand Pool Villa:"
+            },
+            "filename" : "GrandPoolVilla2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Grand Pool Villa:",
+                "EN" : "Grand Pool Villa:"
+            },
+            "filename" : "GrandPoolVilla3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Grand Pool Villa:",
+                "EN" : "Grand Pool Villa:"
+            },
+            "filename" : "GrandPoolVilla4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Grand Pool Villa:",
+                "EN" : "Grand Pool Villa:"
+            },
+            "filename" : "GrandPoolVilla5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Beach Pool Villa:",
+                "EN" : "Beach Pool Villa:"
+            },
+            "filename" : "br4_1.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "SHA Plus отель для взыскательных отдыхающих, которые ищут частную, высококлассную резиденцию.",
+        "EN" : "The SHA Plus hotel is for the discerning vacationer looking for a private, upscale residence."
+    },
+    "description" : {
+        "RU" : "Резиденция предлагает аппартаменты или виллы площадью от 1 до 3 спален и одно или двухэтажное исполнение. <br>Каждый номер тщательно интегрирован с элементами роскоши и функционального пространства с использованием материалов высшего качества, эстетически привлекателен и оборудован по последнему слову техники. <br>Все апартаменты хорошо укомплектованны и отличаются выдающимся дизайном, а также предлагают просторную зону отдыха с террасой. <br>Виллы, построенные в двухэтажном стиле, полностью меблированы и предлагают частный бассейн с солнечной террасой, обеденной зоной и садом на первом этаже и универсальное открытое пространство на втором этаже с видом на бассейн и красивый пляж. <br>Отель расположен рядом с пляжем Ламай, поэтому жители могут в полной мере насладиться самой сутью морского отдыха. <hr>Стоимость в сутки: <br>Deluxe Jacuzzi Suite: 2600 бат. <br>Deluxe Balcony Suite: 3100 бат. <br>Plunge Pool Suite: 3600 бат. <br>Hidro Pool Villa: 4200 бат. <br>Grand Pool Villa: 5400 бат. <br>Beach Pool Villa: 6600 бат. <br>Дополнительно оплачивается COVID-19 RT-PCR Test - 2200 бат/шт. <br>Включены в стоимость: Завтрак, WiFi, трансфер с пирса/аэропорта, обслуживание бассейна, уборка со сменой белья и полотенец. <br>Депозит для бронирования/сохранный депозит - 3000 бат или 100$.",
+        "EN" : "The residence offers apartments or villas ranging from 1 to 3 bedrooms and one or two storeys. <br>Each room is carefully integrated with elements of luxury and functional space, using the highest quality materials, aesthetically pleasing and equipped with the latest technology. <br>All apartments are well-equipped and outstanding in design and offer a spacious seating area with a terrace. <br>The villas, built in a two-story style, are fully furnished and offer a private pool with sun terrace, dining area and garden on the ground floor and versatile open space on the second floor overlooking the pool and beautiful beach. <br>The hotel are located next to Lamai Beach, so residents can fully enjoy the very essence of a seaside holiday. <hr>Cost per day: <br>Deluxe Jacuzzi Suite: 2600 THB. <br>Deluxe Balcony Suite: 3100 THB. <br>Plunge Pool Suite: 3600 THB. <br>Hidro Pool Villa: 4200 THB. <br>Grand Pool Villa: 5400 THB. <br>Beach Pool Villa: 6600 THB. <br>COVID-19 RT-PCR Test is paid additionally - 2200 baht / pc. <br>Included in the price: Breakfast, WiFi, transfer from the pier / airport, pool service, cleaning with a change of linen and towels. <br>Deposit for booking / safe deposit - 3000 baht or 100$."
+    },
+    "dayPrice" : 2600.0,
+    "sleepingRoomCount" : 0,
+    "washRoomCount" : 0,
+    "distanceToSea" : 0.0,
+    "type" : "apartments",
+    "beach" : "lamai",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : true,
+        "microwaveOven" : true,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : true,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : true,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : true,
+        "nearSea" : true,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "kitchenWare" : true,
+        "cleaning" : true,
+        "tableWare" : true,
+        "kitchen" : true,
+        "jungle" : false
+    },
+    "videoLink" : "",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

@@ -1,0 +1,156 @@
+{
+	"_id" : "SR0003",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Студия",
+                "RU" : "Студия"
+            },
+            "filename" : "st1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия",
+                "RU" : "Студия"
+            },
+            "filename" : "st2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия",
+                "RU" : "Студия"
+            },
+            "filename" : "st3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия",
+                "RU" : "Студия"
+            },
+            "filename" : "st4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия",
+                "RU" : "Студия"
+            },
+            "filename" : "st5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия",
+                "RU" : "Студия"
+            },
+            "filename" : "st6.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия",
+                "RU" : "Студия"
+            },
+            "filename" : "st7.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия",
+                "RU" : "Студия"
+            },
+            "filename" : "st8.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия",
+                "RU" : "Студия"
+            },
+            "filename" : "st9.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия",
+                "RU" : "Студия"
+            },
+            "filename" : "st10.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия",
+                "RU" : "Студия"
+            },
+            "filename" : "st11.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Студия",
+                "RU" : "Студия"
+            },
+            "filename" : "tr1.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "Студия Липа Ной",
+        "RU" : "Студия Липа Ной"
+    },
+    "briefly" : {
+        "EN" : "Просторная чистая студия с панорамными окнами и видом на бассейн в районе пляжа Липа Ной.",
+        "RU" : "Просторная чистая студия с панорамными окнами и видом на бассейн в районе пляжа Липа Ной."
+    },
+    "description" : {
+        "EN" : "Кровать King-size, кондиционер, вентиляторы, санузел с душевой, TV, кухонная зона (только чайник и немного посуды), общий бассейн, тренажерный зал, До пляжа Липа Ной - 12 минут езды, до АЗС, 7/11 и кофейни Amazon - 5 минут езды. Стоимость: Посуточное размещение - 1200 бат/ночь (завтраки включены). Помесячно: 28 000 бат/мес, wi-fi, вода и электричество включены в стоимость",
+        "RU" : "Кровать King-size, кондиционер, вентиляторы, санузел с душевой, TV, кухонная зона (только чайник и немного посуды), общий бассейн, тренажерный зал, До пляжа Липа Ной - 12 минут езды, до АЗС, 7/11 и кофейни Amazon - 5 минут езды. Стоимость: Посуточное размещение - 1200 бат/ночь (завтраки включены). Помесячно: 28 000 бат/мес, wi-fi, вода и электричество включены в стоимость"
+    },
+    "type" : "studio",
+    "beach" : "lipaNoi",
+    "dayPrice" : 1200.0,
+    "monthPrice" : 28000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : false,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : false,
+        "iron" : false,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : true,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : false,
+        "terrace" : false,
+        "refrigerator" : false,
+        "kitchenWare" : false,
+        "cleaning" : false,
+        "tableWare" : true,
+        "kitchen" : false,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 0,
+    "special" : true,
+    "washRoomCount" : 1,
+    "parkingPlaceCount" : 0,
+    "distanceToSea" : 2800.0,
+    "archived" : false,
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

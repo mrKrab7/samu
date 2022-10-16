@@ -1,0 +1,214 @@
+{
+	"_id" : "SR0201",
+    "mainImage" : {
+        "title" : {
+            "EN" : "main view",
+            "RU" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Гостиная:",
+                "RU" : "Гостиная:"
+            },
+            "filename" : "lr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Спальня:",
+                "RU" : "Спальня:"
+            },
+            "filename" : "br4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Кухня:",
+                "RU" : "Кухня:"
+            },
+            "filename" : "kch5.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Ванная комната:",
+                "RU" : "Ванная комната:"
+            },
+            "filename" : "wc4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr1.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr2.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr3.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr4.jpg"
+        },
+        {
+            "title" : {
+                "EN" : "Территория:",
+                "RU" : "Территория:"
+            },
+            "filename" : "tr5.jpg"
+        }
+    ],
+    "title" : {
+        "EN" : "One bedroom houses in the Maenam Area",
+        "RU" : "Односпальный дом Мэнам"
+    },
+    "briefly" : {
+        "EN" : "New one bedroom houses in the Maenam Area on the shore of a small pond.",
+        "RU" : "Новые односпальные домики в районе Мэнам на берегу небольшого пруда. "
+    },
+    "description" : {
+        "EN" : "To  Maenam beach is 800 m. Houses are not large, but neat and has everything you need. <br>In the living area there is a sofa, a coffee table and a TV. <br>In the kitchen - refrigerator, thermopot, electric stove, set of dishes, dining table. <br>In the bedroom - air conditioning, double bed, wardrobe, dressing table. <br>Bed linen is provided, no towels. <br>Bathroom with shower. <hr>Price: 9000 baht/month. <br>Wi-Fi, water included. <br>Additional charge for electricity - 5 baht/kW. <br>Security Deposit - 5000 baht.",
+        "RU" : "До пляжа Мэнам 800 м. Домики не большие, но аккуратные и есть все необходимое. <br>В зоне гостиной диван, журнальный столик и телевизор. <br>На кухне - холодильник, термопот, электрическая плита, набор посуды, обеденный столик. <br>В спальне - кондиционер, двуспальная кровать, шкаф для одежды, туалетный столик. <br>Постельное белье предоставляется, полотенец нет. <br>Санузел с душем. <hr>Стоимость: 9000 бат/мес. <br>WiFi, вода - включены в стоимость. <br>Дополнительно оплачивается электричество - 5 бат/кВт. <br>Сохранный депозит - 5000 бат."
+    },
+    "type" : "house",
+    "beach" : "maenam",
+    "monthPrice" : 9000.0,
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : false,
+        "grill" : false,
+        "swimmingPool" : false,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : true,
+        "bedClothes" : false,
+        "towels" : false,
+        "toaster" : false,
+        "babyCot" : false,
+        "parking" : false,
+        "terrace" : false,
+        "refrigerator" : false,
+        "kitchenWare" : false,
+        "cleaning" : false,
+        "tableWare" : false,
+        "kitchen" : false,
+        "jungle" : false
+    },
+    "sleepingRoomCount" : 1,
+    "special" : false,
+    "washRoomCount" : 1,
+    "distanceToSea" : 800.0,
+    "videoLink" : "https://youtu.be/mUSKMBgQ-zE",
+    "archived" : false,
+    "uploadedToIk" : true,
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}

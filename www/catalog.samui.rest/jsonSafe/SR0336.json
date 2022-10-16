@@ -1,0 +1,127 @@
+{
+	"_id" : "SR0336",
+    "special" : false,
+    "archived" : false,
+    "mainImage" : {
+        "title" : {
+            "RU" : "main view",
+            "EN" : "main view"
+        },
+        "filename" : "main.jpg"
+    },
+    "additionalImages" : [
+        {
+            "title" : {
+                "RU" : "Студия:",
+                "EN" : "Studio:"
+            },
+            "filename" : "st_1.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Студия:",
+                "EN" : "Studio:"
+            },
+            "filename" : "st_2.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Студия:",
+                "EN" : "Studio:"
+            },
+            "filename" : "st_3.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Студия:",
+                "EN" : "Studio:"
+            },
+            "filename" : "st_4.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Студия:",
+                "EN" : "Studio:"
+            },
+            "filename" : "st_5.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Студия:",
+                "EN" : "Studio:"
+            },
+            "filename" : "st_6.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Студия:",
+                "EN" : "Studio:"
+            },
+            "filename" : "st_7.jpg"
+        },
+        {
+            "title" : {
+                "RU" : "Студия:",
+                "EN" : "Studio:"
+            },
+            "filename" : "st_8.jpg"
+        }
+    ],
+    "title" : {
+        "RU" : "Описание:",
+        "EN" : "Description:"
+    },
+    "briefly" : {
+        "RU" : "Студия в резорте с общим бассейном.",
+        "EN" : "Studio with a shared pool."
+    },
+    "description" : {
+        "RU" : "<ul>Большая территория комплекса с общим бассейном. До пляжа Бопут и Фишерман Вилладж - 950 м. На входе в апартаменты зона гостиной имеется  имеется диван, телевизор, кондиционер, журнальный столик, двуспальная кровать, туалетный столик и шкаф для одежды. На кухне имеется газовая плита, тостер, холодильник, необходимая посуда. Санузел с раковиной унитазом и душем. <hr></p><ul><li>Стоимость: 15000 бат/мес. Дополнительно оплачиваются вода - 45 бат/м3, электричество - 6 бат/кВт, газ - 500 бат/балон.</li><li>При выселении взимается 1000 бат за уборку. Депозит для бронирования - 50000. Сохранный депозит - 5 000 бат.</li></ul>",
+        "EN" : "<ul>Large area of the complex has a communal swimming pool. Bophut beach and Fisherman village are 950 meters away. The living area has a sofa, TV, air conditioning, coffee table, double bed, dressing table, and wardrobe. The kitchen has a gas stove, toaster, refrigerator, tableware. Bathroom with shower.<hr></p><ul><li>Cost: 15,000 baht/month. Additionally paid water – 45 baht/m3, electricity – 6 baht/kW, gas – 500 baht/cylinder.</li><li>1000 baht cleaning fee will be charged upon check-out. Deposit for booking – 50 000 baht. Safety Deposit – 5 000 baht.</li></ul>"
+    },
+    "dayPrice" : "",
+    "monthPrice" : 15000.0,
+    "sleepingRoomCount" : 0,
+    "washRoomCount" : 1,
+    "distanceToSea" : 950.0,
+    "type" : "apartments",
+    "beach" : "bophut",
+    "options" : {
+        "conditioner" : true,
+        "tv" : true,
+        "washingMachine" : false,
+        "dishWasher" : false,
+        "hairDryer" : false,
+        "microwaveOven" : false,
+        "cooker" : true,
+        "teaPot" : true,
+        "coffeePot" : false,
+        "wifi" : true,
+        "internet" : true,
+        "iron" : false,
+        "garden" : true,
+        "grill" : false,
+        "swimmingPool" : true,
+        "closedArea" : false,
+        "seaView" : false,
+        "nearSea" : false,
+        "bedClothes" : true,
+        "towels" : false,
+        "toaster" : true,
+        "babyCot" : false,
+        "parking" : true,
+        "terrace" : true,
+        "refrigerator" : true,
+        "cleaning" : true,
+        "kitchen" : true,
+        "jungle" : false,
+        "kitchenWare" : true,
+        "tableWare" : true
+    },
+    "videoLink" : "https://youtu.be/PPnnvqEmbPc",
+    "propositionLocation" : {
+        "latitude" : 0.0,
+        "longitude" : 0.0
+    },
+    "_class" : "pro.nsystem.proposition.domain.localized.Proposition"
+}
